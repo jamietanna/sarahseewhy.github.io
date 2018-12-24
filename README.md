@@ -22,6 +22,8 @@ Track issues and features for the site.
 | Fix broken "Home" link which doesn't redirect to `/`  | | |
 | Remove Hyde icon from browser tab  | | |
 | Use `_data` to configure navigation  | | |
+| Fix font file being loaded over HTTPS  | | |
+| Add linked 'Read more' to blurbs which redirects to full post | | |
 | Change sidebar title font  | | |
 | Migrate to Sass  | | |
 | Move sidebar content further up  | | |
