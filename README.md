@@ -14,4 +14,20 @@ Do visit their github pages for more details.
 
 ## Issue Tracker
 
-The [Issue Tracker](/docs/issue-tracker.md) does what it says on the tin, tracks issues or features in backlog or in progress.
+Track issues and features for the site.
+
+| To Do | Doing | Done|
+|---------|-------|-----|
+|  |  Fix unstyled `about.html`  | |
+| Remove Hyde icon from browser tab  | | |
+| Use `_data` to configure navigation  | | |
+| Change sidebar title font  | | |
+| Migrate to Sass  | | |
+| Move sidebar content further up  | | |
+| Add content to `/about`  | | |
+| Ensure pagination works  | | |
+| Create `/blog` section | | |
+| Create `/blog` sections by year (e.g., 2018, 2017, etc) | | |
+| Add content from google docs | | |
+| Add content from wordpress | | |
+| Next | | |
