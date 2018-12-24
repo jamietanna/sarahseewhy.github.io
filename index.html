@@ -13,7 +13,7 @@ title: Home
     </h1>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
-    {{ post.content | split:'<!--break-->' | first }}
+    {{ post.content | truncatewords:75 }}
     <br>
     <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
   </div>
