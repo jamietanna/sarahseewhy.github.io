@@ -23,7 +23,7 @@ Track issues and features for the site.
 |  | | Figure out why `site.baseurl` is not being interpolated as `/`. Issue cause: `baseurl` is set in `_config.yml`. For pages with the url `<user>.github.io` the `baseurl` should be blank as it's not being used. A "/" can be appended to the `{{site.baseurl}` to fix the home path to `/`. Please see [here](https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/) and [here](https://software-carpentry.org/blog/2016/09/we-still-cant-have-nice-things.html) for more details. |
 |  | | Remove Hyde icon from browser tab |
 |  | | Fix font file being loaded over HTTPS. This is fixed by removing the link to the font. I plan to change the font anyway |
-| Add linked 'Read more' to blurbs which redirects to full post | | |
+|  | Add linked 'Read more' to blurbs which redirects to full post | |
 | Change sidebar title font  | | |
 | Migrate to Sass  | | |
 | Move sidebar content further up  | | |
