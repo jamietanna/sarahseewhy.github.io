@@ -18,8 +18,8 @@ Track issues and features for the site.
 
 | To Do | Doing | Done|
 |---------|-------|-----|
-|  |  Fix unstyled blog posts  | |
-|  | Fix font file being loaded over HTTPS | |
+|  |  Fix not found style sheet for blog posts (404)  | |
+|  | | Fix font file being loaded over HTTPS |
 | Fix broken "Home" link which doesn't redirect to `/`  | | |
 | Remove Hyde icon from browser tab  | | |
 | Use `_data` to configure navigation  | | |
