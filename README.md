@@ -18,7 +18,7 @@ Track issues and features for the site.
 
 | To Do | Doing | Done|
 |---------|-------|-----|
-|  |  Fix not found style sheet for blog posts (404)  | |
+|  | | Fix not found style sheet for blog posts (404). Issue cause: interpolation for "site.baseurl" in html file was not working because the baseurl used quotes in the config.yml |
 |  | | Fix font file being loaded over HTTPS |
 | Fix broken "Home" link which doesn't redirect to `/`  | | |
 | Remove Hyde icon from browser tab  | | |
