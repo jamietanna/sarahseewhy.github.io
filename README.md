@@ -25,7 +25,7 @@ Track issues and features for the site.
 |  | | Fix font file being loaded over HTTPS. This is fixed by removing the link to the font. I plan to change the font anyway |
 |  | | Add linked 'Read more' to blurbs which redirects to full post |
 |  | | Change font-family across site |
-|  | Move sidebar content further up | |
+|  | | Move sidebar content further up |
 | Migrate to Sass  | | |
 | Add content to `/about`  | | |
 | Ensure pagination works  | | |
