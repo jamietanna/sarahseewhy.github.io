@@ -24,9 +24,9 @@ Track issues and features for the site.
 |  | | Remove Hyde icon from browser tab |
 |  | | Fix font file being loaded over HTTPS. This is fixed by removing the link to the font. I plan to change the font anyway |
 |  | | Add linked 'Read more' to blurbs which redirects to full post |
-|  | Change sidebar title font | |
+|  | | Change font-family across site |
+|  | Move sidebar content further up | |
 | Migrate to Sass  | | |
-| Move sidebar content further up  | | |
 | Add content to `/about`  | | |
 | Ensure pagination works  | | |
 | Create `/blog` section | | |
