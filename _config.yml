@@ -6,8 +6,10 @@ title: sarah c y
 email: sarahseewhy@gmail.com
 description: >-
   Historian by training, developer by choice, curious by nature.
-url: ""
-baseurl: ""
+
+baseurl:
+url: https://sarahseewhy.github.io
+
 twitter_username: sarahseewhy
 github_username:  sarahseewhy
 paginate: 5
