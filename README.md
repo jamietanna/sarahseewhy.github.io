@@ -19,7 +19,8 @@ Track issues and features for the site.
 | To Do | Doing | Done|
 |-------|-------|-----|
 |  | | Fix not found style sheet for blog posts (404). Issue cause: Missing `/` in the css href. |
-|  | Fix broken "Home" link which doesn't redirect to `/` | |
+|  | | Fix broken "Home" link which doesn't redirect to `/`. Hard code baseurl as `/` in html files. |
+|  | Figure out why `site.baseurl` is not being interpolated as `/` | |
 | Fix font file being loaded over HTTPS | | |
 | Remove Hyde icon from browser tab  | | |
 | Use `_data` to configure navigation  | | |
