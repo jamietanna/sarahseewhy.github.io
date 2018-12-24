@@ -21,8 +21,7 @@ Track issues and features for the site.
 |  | | Fix not found style sheet for blog posts (404). Issue cause: Missing `/` in the css href. |
 |  | | Fix broken "Home" link which doesn't redirect to `/`. Hard code baseurl as `/` in html files. |
 |  | | Figure out why `site.baseurl` is not being interpolated as `/`. Issue cause: `baseurl` is set in `_config.yml`. For pages with the url `<user>.github.io` the `baseurl` should be blank as it's not being used. A "/" can be appended to the `{{site.baseurl}` to fix the home path to `/`. Please see [here](https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/) and [here](https://software-carpentry.org/blog/2016/09/we-still-cant-have-nice-things.html) for more details. |
-| Fix font file being loaded over HTTPS | | |
-| Remove Hyde icon from browser tab  | | |
+|  | Remove Hyde icon from browser tab | |
 | Use `_data` to configure navigation  | | |
 | Fix font file being loaded over HTTPS  | | |
 | Add linked 'Read more' to blurbs which redirects to full post | | |
