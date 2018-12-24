@@ -18,7 +18,8 @@ Track issues and features for the site.
 
 | To Do | Doing | Done|
 |---------|-------|-----|
-|  |  Fix unstyled `about.html`  | |
+|  |  Fix unstyled blog posts  | |
+| Fix broken "Home" link which doesn't redirect to `/`  | | |
 | Remove Hyde icon from browser tab  | | |
 | Use `_data` to configure navigation  | | |
 | Change sidebar title font  | | |
