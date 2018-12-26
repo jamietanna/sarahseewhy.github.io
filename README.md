@@ -21,9 +21,7 @@ Track issues and features for the site.
 | Next | | |
 | Add content from wordpress | | |
 | Add content from google docs | | |
-| Add content to `/about`  | | |
-| Create `/blog` sections by year (e.g., 2018, 2017, etc) | | |
-| Create `/blog` section | | |
+|  | Add content to `/about` | |
 |  | | Remove "Related posts" section |
 |  | | Turn off pagination as it's not necessary at this point. |
 |  | | Ensure pagination works |
