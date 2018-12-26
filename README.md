@@ -27,7 +27,7 @@ Track issues and features for the site.
 |  | | Change font-family across site |
 |  | | Move sidebar content further up |
 |  | | Change colour for links |
-| Ensure pagination works  | | |
+|  | Ensure pagination works | |
 | Add content to `/about`  | | |
 | Create `/blog` section | | |
 | Create `/blog` sections by year (e.g., 2018, 2017, etc) | | |
