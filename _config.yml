@@ -12,7 +12,8 @@ url: http:sarahseewhy.github.io
 
 twitter_username: sarahseewhy
 github_username:  sarahseewhy
-paginate: 5
+paginate: 10
+paginate_path: "/page/:num/"
 
 # Plugins
 plugins:
