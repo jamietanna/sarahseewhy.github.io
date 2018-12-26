@@ -30,6 +30,7 @@ Track issues and features for the site.
 |  | | Ensure pagination works |
 |  | | Turn off pagination as it's not necessary at this point. |
 |  | Remove "Related posts" section | |
+| Anchor sidebar title to top | | |
 | Add content to `/about`  | | |
 | Create `/blog` section | | |
 | Create `/blog` sections by year (e.g., 2018, 2017, etc) | | |
