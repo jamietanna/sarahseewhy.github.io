@@ -29,7 +29,7 @@ Track issues and features for the site.
 |  | | Change colour for links |
 |  | | Ensure pagination works |
 |  | | Turn off pagination as it's not necessary at this point. |
-|  | Remove "Related posts" section | |
+|  | | Remove "Related posts" section |
 | Anchor sidebar title to top | | |
 | Add content to `/about`  | | |
 | Create `/blog` section | | |
