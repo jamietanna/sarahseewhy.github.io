@@ -18,22 +18,27 @@ Track issues and features for the site.
 
 | To Do | Doing | Done|
 |-------|-------|-----|
-|  | | Fix not found style sheet for blog posts (404). Issue cause: Missing `/` in the css href. |
-|  | | Fix broken "Home" link which doesn't redirect to `/`. Hard code baseurl as `/` in html files. |
-|  | | Figure out why `site.baseurl` is not being interpolated as `/`. Issue cause: `baseurl` is set in `_config.yml`. For pages with the url `<user>.github.io` the `baseurl` should be blank as it's not being used. A "/" can be appended to the `{{site.baseurl}` to fix the home path to `/`. Please see [here](https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/) and [here](https://software-carpentry.org/blog/2016/09/we-still-cant-have-nice-things.html) for more details. |
-|  | | Remove Hyde icon from browser tab |
-|  | | Fix font file being loaded over HTTPS. This is fixed by removing the link to the font. I plan to change the font anyway |
-|  | | Add linked 'Read more' to blurbs which redirects to full post |
-|  | | Change font-family across site |
-|  | | Move sidebar content further up |
-|  | | Change colour for links |
-|  | | Ensure pagination works |
-|  | | Turn off pagination as it's not necessary at this point. |
-|  | | Remove "Related posts" section |
-|  | | Anchor sidebar title to top |
-| Add content to `/about`  | | |
-| Create `/blog` section | | |
-| Create `/blog` sections by year (e.g., 2018, 2017, etc) | | |
-| Add content from google docs | | |
-| Add content from wordpress | | |
 | Next | | |
+| Add content from wordpress | | |
+| Add content from google docs | | |
+| Add content to `/about`  | | |
+| Create `/blog` sections by year (e.g., 2018, 2017, etc) | | |
+| Create `/blog` section | | |
+|  | | Remove "Related posts" section |
+|  | | Turn off pagination as it's not necessary at this point. |
+|  | | Ensure pagination works |
+|  | | Change colour for links |
+|  | | Move sidebar content further up |
+|  | | Change font-family across site |
+|  | | Add linked 'Read more' to blurbs which redirects to full post |
+|  | | Fix font file being loaded over HTTPS. This is fixed by removing the link to the font. I plan to change the font anyway |
+|  | | Remove Hyde icon from browser tab |
+|  | | Figure out why `site.baseurl` is not being interpolated as `/`. Issue cause: `baseurl` is set in `_config.yml`. For pages with the url `<user>.github.io` the `baseurl` should be blank as it's not being used. A "/" can be appended to the `{{site.baseurl}` to fix the home path to `/`. Please see [here](https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/) and [here](https://software-carpentry.org/blog/2016/09/we-still-cant-have-nice-things.html) for more details. |
+|  | | Fix broken "Home" link which doesn't redirect to `/`. Hard code baseurl as `/` in html files. |
+|  | | Fix not found style sheet for blog posts (404). Issue cause: Missing `/` in the css href. |
+|  | | Anchor sidebar title to top |
+
+
+
+
+
