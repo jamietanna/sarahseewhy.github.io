@@ -82,6 +82,10 @@ html {
   font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   font-size: 3rem;
 }
+
+.sidebar-about h2 {
+    color: #e4e4e4;
+}
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;

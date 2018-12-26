@@ -3,10 +3,10 @@ markdown: kramdown
 
 # Setup
 title: sarah c y
+subtitle: sarahseewhy
 email: sarahseewhy@gmail.com
 description: >-
- developer
-
+ developer | historian
 baseurl: ""
 url: http:sarahseewhy.github.io
 
