@@ -4,14 +4,20 @@ markdown: kramdown
 # Setup
 title: sarah c y
 subtitle: sarahseewhy
-email: sarahseewhy@gmail.com
 description: >-
  developer | historian
 baseurl: ""
 url: http:sarahseewhy.github.io
-
-twitter_username: sarahseewhy
-github_username:  sarahseewhy
+username: sarahseewhy
+email: sarahseewhy@gmail.com
+# Links
+links:
+ - url: https://github.com/
+   logo: github
+ - url: https://twitter.com/
+   logo: twitter
+ - url: https://linkedin.com/in/
+   logo: linkedin
 
 # Plugins
 plugins:
