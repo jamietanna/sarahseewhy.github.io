@@ -54,7 +54,6 @@ html {
  */
 
 .sidebar {
-  height: 100%;
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
@@ -103,9 +102,10 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 .sidebar-footer {
+  padding-bottom: .25rem;
   text-align: center;
-  left: 0;
-  bottom: 0;
+  grid-row-start: 8;
+  grid-row-end: 9;
 }
 
 
@@ -120,6 +120,9 @@ a.sidebar-nav-item:focus {
   .sidebar-sticky {
     position: fixed;
     left:   1rem;
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: auto;
   }
 }
 
