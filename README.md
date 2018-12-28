@@ -30,7 +30,7 @@ Track issues and features for the site.
 |-------|-------|-----|
 | Next | | |
 | Experiment with CSS grid system for all of site. | | |
-|  | Remove underlines from icon links | |
+|  | | Remove underlines from icon links |
 |  | | Make "Read more" link more prominent. |
 |  | | Add content from google docs |
 |  | | Add contact section with icons. Introduces CSS grid system. |
