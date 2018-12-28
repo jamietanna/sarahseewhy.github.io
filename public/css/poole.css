@@ -352,6 +352,12 @@ tbody tr:nth-child(odd) th {
   color: #9a9a9a;
 }
 
+/* For "Read more" href */
+.post-continue {
+  font-size: 14px;
+  font-weight: bold;
+}
+
 /* Related posts
 * Removed until required. See commit #e4fdfcbc044cc676740c92b9c04512b6dbd6ef57
 * for last occurrence of related posts.
