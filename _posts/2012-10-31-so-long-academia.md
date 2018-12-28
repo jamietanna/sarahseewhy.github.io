@@ -18,14 +18,14 @@ Finishing my first dissertation as an undergraduate was another revelatory momen
 
 So why leave? Well, here goes:
 
-  
+<br>
 
 #### Why I’m leaving #1
 Logistics, plain and simple. I’m sure there’s a word for this in Marxism (materialist something?). The job market for history PhDs is dismal and provides limited financial stability. Perhaps this is too honest but I have bills to pay. I need to make a living, and not just now but in the future.
 
 I also want to make my life in the UK with my British partner. This is my home now and I want it to be home for a long, long time.
 
-  
+<br>
 
 #### Why I’m leaving #2
 The dissertation proposal. I’m not kidding. Don’t get me wrong, it’s a fascinating topic and I worked hard on developing and researching it. It’s just not the project for me to do.
@@ -38,7 +38,7 @@ While this is an interesting project it’s a tad grandiose, ambitious. I don’
 
 And to be honest, I don’t think I’m passionate enough about it.
 
-  
+<br>
 
 #### Why I’m leaving #3
 As much as I love doing history – research, writing, thinking – it can get lonely. It’s no particularly collaborative. Teaching? Love it. Working with other historians? Wouldn’t give it up.

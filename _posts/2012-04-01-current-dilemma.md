@@ -6,7 +6,7 @@ date:   2012-04-01
 
 The current dilemma I’m facing is whether to begin this business of writing at all. Evidently I’ve made a decision. <!-- more -->
 
-  
+<br>
 
 #### Background
 
@@ -14,7 +14,7 @@ I’m an American masters student in Manchester studying the history of gender i
 
 My current work examines the construction of masculinity, class, and professionalism in the emerging field of computer science in 1950s/60s Manchester. I’m interested in how men connected manliness and technology to construct a specifically gendered and classed profession of ‘computer scientist’.
 
-  
+<br>
 
 #### Why write?
 
@@ -24,13 +24,13 @@ The blog format feels both natural and a bit, well, trite. I cannot believe the 
 
 Yet here I am, writing this now. I’m committed, there’s no turning back.
 
-  
+<br>
 
 #### What to write?
 
 At this point it will be whatever comes to mind. It may end up being general thoughts on gender history, complaints about the study of history or academia more generally, and most likely current dilemmas I’m facing.
 
-  
+<br>
 
 #### What’s next?
 
