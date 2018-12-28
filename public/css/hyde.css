@@ -101,13 +101,17 @@ a.sidebar-nav-item:focus {
 .sidebar-nav-item.active {
   font-weight: bold;
 }
-.sidebar-footer {
+
+/* Footer for sidebar */
+.footer {
   padding-bottom: .25rem;
   text-align: center;
   grid-row-start: 8;
   grid-row-end: 9;
 }
-
+a.footer-icon {
+  text-decoration: none
+}
 
 
 /* Sticky sidebar

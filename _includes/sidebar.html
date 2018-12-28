@@ -28,12 +28,12 @@
         {% endif %}
       {% endfor %}
     </nav>
-    <div class="sidebar-footer">
-      <a href="mailto:{{ site.email }}">
+    <div class="footer">
+      <a class="footer-icon" href="mailto:{{ site.email }}">
         <img class="svg-icon" src="/public/logos/svg/email.svg">
       </a>
       {% for link in site.links %}
-      <a href="{{ link.url }}{{ site.username }}">
+      <a class="footer-icon" href="{{ link.url }}{{ site.username }}">
         <img class="svg-icon" src="/public/logos/svg/{{ link.logo }}.svg">
       </a>
       {% endfor %}
