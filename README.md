@@ -12,6 +12,21 @@ The page's design is based on the Hyde theme:
 
 Do visit their github pages for more details.
 
+## Credits
+
+All logos provided by [flaticon](www.flaticon.com).
+
+| Logo | Attribution |
+|------|-------------|
+| ![alt text][email] | Icon made by [Chanut](https://www.flaticon.com/authors/chanut)  |
+| ![alt text][github] | Icon made by [Pixel Perfect](https://www.flaticon.com/authors/pixel-perfect) |
+| ![alt text][linkedin] ![alt text][twitter] | Icons made by [Bogdan Rasu](https://www.flaticon.com/authors/bogdan-rosu) |
+
+[email]: https://github.com/sarahseewhy/sarahseewhy.github.io/blob/master/public/logos/svg/email.svg
+[github]: https://github.com/sarahseewhy/sarahseewhy.github.io/blob/master/public/logos/svg/github.svg
+[linkedin]: https://github.com/sarahseewhy/sarahseewhy.github.io/blob/master/public/logos/svg/linkedin.svg
+[twitter]: https://github.com/sarahseewhy/sarahseewhy.github.io/blob/master/public/logos/svg/twitter.svg
+
 ## Issue Tracker
 
 Track issues and features for the site.
