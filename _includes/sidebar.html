@@ -11,9 +11,8 @@
       </h2>
       <p class="lead">{{ site.description }}</p>
     </div>
-
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.url %} active{% endif %}" href="{{ site.baseurl }}/">home</a>
+      <a class="{% if page.url == site.url %} active{% endif %}" href="{{ site.baseurl }}/">home</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -29,6 +28,15 @@
         {% endif %}
       {% endfor %}
     </nav>
-
+    <div class="sidebar-footer">
+      <a href="mailto:{{ site.email }}">
+        <img class="svg-icon" src="/public/logos/svg/email.svg">
+      </a>
+      {% for link in site.links %}
+      <a href="{{ link.url }}{{ site.username }}">
+        <img class="svg-icon" src="/public/logos/svg/{{ link.logo }}.svg">
+      </a>
+      {% endfor %}
+    </div>
   </div>
 </div>

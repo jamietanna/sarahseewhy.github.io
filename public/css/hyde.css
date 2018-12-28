@@ -54,6 +54,7 @@ html {
  */
 
 .sidebar {
+  height: 100%;
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
@@ -101,6 +102,13 @@ a.sidebar-nav-item:focus {
 .sidebar-nav-item.active {
   font-weight: bold;
 }
+.sidebar-footer {
+  text-align: center;
+  left: 0;
+  bottom: 0;
+}
+
+
 
 /* Sticky sidebar
  *
@@ -114,6 +122,7 @@ a.sidebar-nav-item:focus {
     left:   1rem;
   }
 }
+
 
 
 /* Container
