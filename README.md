@@ -18,14 +18,9 @@ All logos provided by [flaticon](www.flaticon.com).
 
 | Logo | Attribution |
 |------|-------------|
-| ![alt text][email] | Icon made by [Chanut](https://www.flaticon.com/authors/chanut)  |
-| ![alt text][github] | Icon made by [Pixel Perfect](https://www.flaticon.com/authors/pixel-perfect) |
-| ![alt text][linkedin] ![alt text][twitter] | Icons made by [Bogdan Rasu](https://www.flaticon.com/authors/bogdan-rosu) |
-
-[email]: https://github.com/sarahseewhy/sarahseewhy.github.io/blob/master/public/logos/svg/email.svg
-[github]: https://github.com/sarahseewhy/sarahseewhy.github.io/blob/master/public/logos/svg/github.svg
-[linkedin]: https://github.com/sarahseewhy/sarahseewhy.github.io/blob/master/public/logos/svg/linkedin.svg
-[twitter]: https://github.com/sarahseewhy/sarahseewhy.github.io/blob/master/public/logos/svg/twitter.svg
+| [email.svg](https://github.com/sarahseewhy/sarahseewhy.github.io/blob/master/public/logos/svg/email.svg) | Icon made by [Chanut](https://www.flaticon.com/authors/chanut)  |
+| [github.svg](https://github.com/sarahseewhy/sarahseewhy.github.io/blob/master/public/logos/svg/github.svg) | Icon made by [Pixel Perfect](https://www.flaticon.com/authors/pixel-perfect) |
+| [linkedin.svg](https://github.com/sarahseewhy/sarahseewhy.github.io/blob/master/public/logos/svg/linkedin.svg) [twitter.svg](https://github.com/sarahseewhy/sarahseewhy.github.io/blob/master/public/logos/svg/twitter.svg) | Icons made by [Bogdan Rasu](https://www.flaticon.com/authors/bogdan-rosu) |
 
 ## Issue Tracker
 
