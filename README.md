@@ -29,9 +29,10 @@ Track issues and features for the site.
 | To Do | Doing | Done|
 |-------|-------|-----|
 | Next | | |
+| Experiment with CSS grid system for all of site. | | |
 | Add content from wordpress | | |
-| Add content from google docs | | |
-|  |  Add contact section with favicons | |
+|  | Add content from google docs | |
+|  | | Add contact section with icons. Introduces CSS grid system. |
 |  | | Add content to `/about` |
 |  | | Remove "Related posts" section |
 |  | | Turn off pagination as it's not necessary at this point. |
