@@ -7,7 +7,7 @@ date:   2013-01-02
 I have a job. Well, internship. I’m starting an experiment in communications (public relations) at a London agency. 
 The focus will be education and law, I hope.
 
-<br>
+  
 
 #### Why communications? 
 
@@ -19,7 +19,7 @@ I will be writing (hopefully, it is internship after all), reading new material,
 
 The work sounds challenging; some of it will involve finance which I’m less familiar with than 19th and 20th century gender history or feminist theory.
 
-<br>
+  
 
 #### What I hope to achieve
 
@@ -29,7 +29,7 @@ The work sounds challenging; some of it will involve finance which I’m less fa
 
 Besides that I’m trying to keep an open mind. This is not the future I envisioned for myself. There’s a line from _The Impossible Will Take Awhile_ that springs to mind: “How to be a happy warrior in an institution with nowhere near the required sense of urgency?” I think that’s the question I'd like find an answer to.
 
-<br>
+  
     
 #### What’s next 
 
