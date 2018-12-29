@@ -12,13 +12,9 @@ The book encourages readers to identify their transferable skills, where they wo
 
 So that’s what I’ve done.
 
-<br>
-
 #### Transferable skills
 
 I will absolutely not enumerate any skills here, the risk of self-deprecating humour is too great nor do I feel it’s appropriate. People can peruse LinkedIn for this information.
-
-<br>
 
 #### Where to use them
 
@@ -33,8 +29,6 @@ I’d like to work collaboratively. I miss having a team of co-workers. Being bu
 Writing, communicating, thinking will be a part of my work. Teaching as well, if possible.
 
 Throwing a wide net.
-
-<br>
 
 #### Reaching out
 
