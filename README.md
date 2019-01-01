@@ -29,7 +29,7 @@ Track issues and features for the site.
 | To Do | Doing | Done|
 |-------|-------|-----|
 | Next | | |
-|  | Add first post. | |
+|  | | Add first post. |
 |  | | Remove underlines from icon links |
 |  | | Make "Read more" link more prominent. |
 |  | | Add content from google docs. This will be an ongoing task, this first set was to see how my writing looked on the site. |
