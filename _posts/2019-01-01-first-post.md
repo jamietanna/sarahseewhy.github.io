@@ -18,7 +18,7 @@ So what changed?
 
 I have the privilege of working with a team of developers who support and believe in me. Their quiet and constant messages of “you got this” and “you matter” slowly dispelled the self-doubt. I’ve been inspired by their fearless approach to programming: jumping in, making mistakes, thinking critically, learning, and laughing. Everyday they remind me why software development can be a joy. 
 
-I also have the privilege of working with an incredible team lead. His encouragement of open source within the team gave me practice to learn in the open and the confidence to do it on my own. Like my teammates he’s a source of encouragement; the faith he places in me and the kind of developer I want to become makes me believe it’s possible. Reading his weekly reflection has also motivated me to return to writing (check out his [Weekly Notes](https://blog.probablyfine.co.uk/2018/09/21/notes-from-the-week-1.html)). I love the openness, the self-reflection, and the experiences he shares. I hope to do something similar.
+I also have the privilege of working with an incredible team lead. His support for open source within the team gave me practice to learn in the open and the confidence to do it on my own. Like my teammates he’s a source of encouragement; the faith he places in me and the kind of developer I want to become makes me believe it’s possible. Reading his weekly reflection has also motivated me to return to writing (check out his [Weekly Notes](https://blog.probablyfine.co.uk/2018/09/21/notes-from-the-week-1.html)). I love the openness, the self-reflection, and the experiences he shares. I hope to do something similar.
 
 So what’s next?
 
