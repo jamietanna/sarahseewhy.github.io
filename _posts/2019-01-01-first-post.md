@@ -22,7 +22,7 @@ I also have the privilege of working with an incredible team lead. His support f
 
 So what’s next?
 
-I’d like this space to be a place where I can recap the things I’ve learned as well as somewhere I can pursue more long form reflections. I have a backlog of musings I’ve been keeping to myself since 2014 (I see you boot camp experience, Google Memo, and “how to be a happy warrior”). 
+I’d like this space to be a place where I can recap the things I’ve learned as well as somewhere I can pursue more long form reflections (à la [Denise Yu](http://deniseyu.github.io/)). I have a backlog of musings I’ve been keeping to myself since 2014 (I see you boot camp experience, Google Memo, and “how to be a happy warrior”). 
 
 If I can, I’d also like to back fill posts especially from around the time I decided to become a developer. I wrote a few proto-posts in Google Docs before I entered programming and did in fact briefly keep a Wordpress site alive a few years ago. Those posts will be moved over here (if you look at the project commits, I’ve already done that a bit to get a sense of how the site would look). I’m also a decent journal keeper (going back to 1999!) and plan to piece together posts from journal entries and emails. 
 
