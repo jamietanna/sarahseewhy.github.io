@@ -13,7 +13,7 @@ title: Home
     </h3>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
-    {{ post.content | truncatewords:50 }}
+    {{ post.content | truncatewords:40 }}
     <div>
       <a class="post-continue" href="{{ site.baseurl }}{{ post.url }}">read more</a>
     </div>

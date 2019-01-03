@@ -4,7 +4,7 @@ title: Reflection week 1
 date: 2019-01-03
 ---
 
-Although this has been a short week I wanted to begin the habit of a weekly reflection piece, similar to Alex Wilson's ["Weekly Notes"](https://blog.probablyfine.co.uk/2018/09/21/notes-from-the-week-1.html).
+Although this has been a short week I wanted to begin the habit of a weekly reflection piece, similar to Alex Wilson's ["Weekly Notes"](https://blog.probablyfine.co.uk/2018/09/21/notes-from-the-week-1.html). It's an opportunity for me to reflect on some of the lessons/experiences I've had these past few days.
 
 --------
 
