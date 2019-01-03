@@ -58,6 +58,6 @@ I'm more judicious about expending speaking energy which allows my pair partner 
 
 The same is somewhat true for when I drive, since asking for reassurance means speaking I'm more likely to just crack on and learn from my mistakes.
 
-I've heard about code a retreat where pairs completed a kata without speaking.
+I've heard about a code retreat where pairs completed a kata without speaking.
 
 I think I'd like to try this...especially right now.
