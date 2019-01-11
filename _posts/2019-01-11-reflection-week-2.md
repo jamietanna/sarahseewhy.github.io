@@ -28,8 +28,6 @@ How could we have found this sooner? By checking our assumptions. If we'd gone t
 
 Lesson learned...again.
 
-<br>
-
 ### _Currently Reading_
     
 I typically have two books on the go: one for my bedside table and one for my commute. This division is due to book size, I dislike carrying around heavy, hardback books on the Tube.
