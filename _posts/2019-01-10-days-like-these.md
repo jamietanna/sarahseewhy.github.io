@@ -18,7 +18,9 @@ It’s because I benefit that I tend not to want to write or talk publicly about
 
 I also don’t write because I’m ambivalent about prescribing bias to an act of human forgetfulness. We all screw up. When our minds are deep in a problem or a discussion it’s a challenge to be fully aware; to solve that knotty problem or debate ideas, _and_ remember the impact of our words or actions and how they may fit into the fabric of social systems and histories. 
 
-I've not yet figured out how to balance intent with impact when I'm faced with an interaction which doesn't feel quite right. Almost always a number of factors are involved, some of which can be connected to broader patterns of power structures. Mostly I let the moments pass, never really forgetting, and maybe adding another drop to the bucket of "I'm not enough"/"I don't belong". I move on to the next day and the next challenge.
+I've not yet figured out how to balance intent with impact when I'm faced with an interaction which doesn't feel quite right. Almost always a number of factors are involved, some of which can be connected to broader patterns of power structures. I also know that, as a colleague phrased it, I'm "unconsciously pattern matching with previous experiences", which can influence my reaction. 
+
+For the most part I let the moments pass, never really forgetting, and maybe adding another drop to the bucket of "I'm not enough"/"I don't belong". I move on to the next day and the next challenge.
 
 Then there’s a question of repercussions following an act of self-revelation. I’ve participated in some incredible communities: extreme programming, software crafting, makers academy. I work at a company I love, in a team which I think is unique in its support and joyful programming, and I’ve attended, and plan to attend more, fascinating conferences and meetups. 
 
