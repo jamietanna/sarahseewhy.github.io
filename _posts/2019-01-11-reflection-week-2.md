@@ -34,7 +34,7 @@ I typically have two books on the go: one for my bedside table and one for my co
 
 **Bedside**: [_The Golden Thread_](https://www.hodder.co.uk/books/detail.page?isbn=9781473659049)
 
-This is an engaging global history of fabric and its impact societies, cultures, and economics. I've just finished the pre-historic period and am still trying to fathom how groups 40,000 years ago developed the complex technology to process fibres like flax into linen.
+This is an engaging global history of fabric and its impact on societies, cultures, and economics. I've just finished the pre-historic period and am still trying to fathom how groups 40,000 years ago developed the complex technology to process fibres like flax into linen.
 
 **Commute**: [_Black Studies in the University_](https://www.amazon.com/Black-Studies-University-Armstead-Robinson/dp/0300011679)
 
