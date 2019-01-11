@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Days like this
+title: There will be days
 date: 2019-01-10
 ---
 
