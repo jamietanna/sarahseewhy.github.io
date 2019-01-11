@@ -4,7 +4,7 @@ title: There will be days
 date: 2019-01-10
 ---
 
-This post’s title is from my favourite [song](https://en.wikipedia.org/wiki/Days_Like_This_(song)) by Van Morrison. It's a reminder that among all the great days, and there are many, there will in fact be days when situations leave me wondering.
+This post’s title is from my favourite Van Morrison [song](https://en.wikipedia.org/wiki/Days_Like_This_(song)). It's a reminder that among all the great days, and there are many, there will in fact be days when situations leave me wondering.
 
 When I entered software development I’d not only heard about the industry’s stereotypes, its reputation as a profession that can be unfriendly to women (at best and not limited to), I’d studied them in depth.
 
