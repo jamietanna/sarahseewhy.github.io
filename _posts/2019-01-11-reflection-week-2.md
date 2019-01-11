@@ -6,9 +6,8 @@ date: 2019-01-11
 
 This week: learning golang, a reminder to check All The Things, and what I'm currently reading.
 
---------
 
-_Learning golang_
+#### _Learning golang_
 
 We've decided to use golang (go) for one of the tools we're building. This is a new language for the team and it's been a mix of fun and frustrating. From my experience this is a normal reaction to picking up a new language. 
 
@@ -20,7 +19,7 @@ We've decided to use golang (go) for one of the tools we're building. This is a 
 
 -----------
 
-_Check All The Things_
+#### _Check All The Things_
 
 This week we ran in to a peculiar problem which ultimately reminded me that despite what you think is true, it's important to check your assumptions.
 
@@ -32,10 +31,10 @@ How could we have found this sooner? By checking our assumptions. If we'd gone t
 
 Lesson learned...again.
 
------------
+<br>
 
-_Currently Reading_
-
+#### _Currently Reading_
+    
 I typically have two books on the go: one for my bedside table and one for my commute. This division is due to book size, I dislike carrying around heavy, hardback books on the Tube.
 
 **Bedside**: [_The Golden Thread_](https://www.hodder.co.uk/books/detail.page?isbn=9781473659049)
