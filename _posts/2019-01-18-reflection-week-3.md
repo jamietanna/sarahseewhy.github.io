@@ -13,7 +13,7 @@ As with many companies we use bash as a scripting language for a bunch of our sc
 
 As an XP team we also believe in TDD and over the past year have been experimenting with [BATS](https://github.com/sstephenson/bats) to test our bash scripts.
 
-This week we were refactoring a script we don’t touch frequently but when we do, we’ve committed to making small improvements. 
+This week we were refactoring a script we don’t touch frequently but when we do, we’ve committed to make small improvements. 
 
 Which brings me to testing bash with BATS and why I think it’s worth learning the process.
 
