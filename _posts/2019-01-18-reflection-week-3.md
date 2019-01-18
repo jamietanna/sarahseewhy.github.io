@@ -24,7 +24,7 @@ However, we found in test driving bash scripts that BATS became a burden not an 
 
 It was no longer as useful a tool to use which encouraged us to think about our logic (can we simplify it?) or consider another scripting tool (Python, Go, etc).
 
-Working with BATS this week increased my appreciation for Go's testing features ([autodocumentation]()) and the readability of pytest.
+Working with BATS this week increased my appreciation for Go's testing features (e.g., autodocumentation) and the readability of pytest.
 
 ### A question of history
 
