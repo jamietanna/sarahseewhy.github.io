@@ -33,7 +33,6 @@ By the end of this week I will have finished [_Black Studies in the University_]
 In [Dr. Nathan Hare's](https://en.wikipedia.org/wiki/Nathan_Hare) essay, "A Radical Perspective on Social Science Curricula", he writes: 
 
 > Persons who make history or help to make history in a sense are writing history, because they dictate to some degree what is that the persons who write history will write.
-<sup>1</sup>
 
 This idea, that individuals in the present are historical actors and every day are writing history with their actions, drew me to study history. It felt empowering to know that our words and actions could have resonance for generations to come. It's a bit overwhelming really. 
 
