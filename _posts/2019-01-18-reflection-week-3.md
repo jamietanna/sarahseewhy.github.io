@@ -36,7 +36,7 @@ In [Dr. Nathan Hare's](https://en.wikipedia.org/wiki/Nathan_Hare) essay, "A Radi
 
 This idea, that individuals in the present are historical actors and every day are writing history with their actions, drew me to study history. It felt empowering to know that our words and actions could have resonance for generations to come. It's a bit overwhelming really. 
 
-In this model, where does the role of software developer fit? What will future historians write about software development of the early 21<sup>st</sup> century? At a high level, how are we writing history by our actions today? Is it in how we 'police' the idea of software developer (i.e., who do we include/exclude)? What about the tools we build and the code we write? 
+In this model, what is the role of software developer? What will future historians write about software development of the early 21<sup>st</sup> century? At a high level, how are we writing history by our actions today? Is it in how we 'police' the idea of software developer (i.e., who do we include/exclude)? What about the tools we build and the code we write? 
 
 Thinking at a more granular level, we also 'make' history whenever we write code (leaving aside the historical implications of the products we build). The evidence we produce is commit messages and documentation (to name two) – how can we improve this evidence to help our future selves better understand the choices we're making now? 
 
