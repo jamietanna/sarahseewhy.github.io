@@ -44,7 +44,7 @@ The [Karma commit](http://karma-runner.github.io/3.0/dev/git-commit-msg.html) co
 
 Having empathy for a future self or selves pushes me to think about the decisions or actions I commit to in the present. 
 
-To some extent this is embodied by Edwin Redkey's point in his essay "On Teaching and Learning Black History":
+To some extent this is embodied by Edwin Redkey's point in his essay "On Teaching and Learning Black History" (again from _Black Studies in the University_):
 
 > [we] search for origins in the past of the problems of the present in hopes of bringing justice and peace in the future.  
 
