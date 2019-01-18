@@ -4,8 +4,7 @@ title: Reflection week 3
 date: 2019-01-17
 ---
 
-This week: testing scripting languages and what obligations do software developers have as historical actors? Leaving aside the tone of levity it's been an interesting, one of the things I love about being a developer is that it's rarely dull.
-
+This week: testing scripting languages and what obligations do software developers have as historical actors? Leaving aside the tone of levity, it has been an interesting week. One of the things I love about being a developer is that it's rarely dull.
 
 ### Testing scripting languages
 
