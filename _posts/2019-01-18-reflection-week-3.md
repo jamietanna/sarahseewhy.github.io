@@ -4,7 +4,7 @@ title: Reflection week 3
 date: 2019-01-17
 ---
 
-This week: testing scripting languages and what obligations do software developers have as historical actors? Leaving aside the tone of levity, it has been an interesting week. One of the things I love about being a developer is that it's rarely dull.
+This week: testing scripting languages and what obligations do software developers have as historical actors? So a light week then. Leaving aside the tone of levity, it has been an interesting week. One of the things I love about being a developer is that it's rarely dull.
 
 ### Testing scripting languages
 
@@ -48,7 +48,7 @@ To some extent this is embodied by Edwin Redkey's point in his essay "On Teachin
 
 > [we] search for origins in the past of the problems of the present in hopes of bringing justice and peace in the future.  
 
-This is true both for historians but to some extent for developers. We do search for origins in the past (commit history) to better understand the problems in the present – and do we hope to bring justice and peace in the future? Probably not, but perhaps it's worth thinking about.
+This is true both for historians but to some extent for developers. We do search for origins in the past (commit history) to better understand the problems in the present – and do we hope to bring justice and peace in the future? Probably not, but perhaps it's worth thinking about, maybe we should.
 
 We _are_ historical actors.
 
