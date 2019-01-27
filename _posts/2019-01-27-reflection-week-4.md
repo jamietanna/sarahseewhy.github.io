@@ -6,7 +6,7 @@ date: 2019-01-27
 
 It was a collaboration heavy week and surfaced a few thoughts on the interaction of people and programming. Also introducing Can't Let It Go to the weekly reflections. 
 
-I'm finally fully back in my groove after pleurisy and forgot how much energy is involved in living. By Friday, when I normally write my reflection, I was knackered...hence a Sunday post.
+I'm finally fully back in my groove after pleurisy and forgot how much energy is involved in day-to-day living. By Friday, when I normally write my reflection, I was knackered...hence a Sunday post.
 
 ### Documentation
 
