@@ -38,7 +38,7 @@ Can't Let It Go (CLIG) is a feature of one of my favourite podcasts (the [NPR Po
 
 I like the concept and it fits with the feeling I get when a thought, experience, or something I've read lingers with me throughout the week.
 
-This week's CLIG was a quote from Martin Luther King Jr from my new commute book [_Modern Ethics in 77 Arguments_](https://www.thestonereader.com/), ["A Life Beyond 'Do What You Love'"](https://opinionator.blogs.nytimes.com/2014/05/17/a-life-beyond-do-what-you-love/) by Gordon Marino: 
+This week's CLIG was a Martin Luther King Jr quote from my new commute book [_Modern Ethics in 77 Arguments_](https://www.thestonereader.com/), ["A Life Beyond 'Do What You Love'"](https://opinionator.blogs.nytimes.com/2014/05/17/a-life-beyond-do-what-you-love/) by Gordon Marino: 
 
 > Dr. King taught that every life is marked by dimensions of length, breadth, and height. Length refers to self-love, breadth to the community and care of others, and height to the transcendent, to something larger than oneself.<sup>*</sup>
 
