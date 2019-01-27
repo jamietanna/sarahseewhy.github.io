@@ -12,7 +12,7 @@ I'm finally fully back in my groove after pleurisy and forgot how much energy is
 
 There are facets of programming which infuriate developers, things we look at in codebases which make us do this:
 
-<div style="text-align:center"><img src ="https://media.giphy.com/media/okrv1eWeKVM9W/giphy.gif"/></div>.
+![Alt Text](https://media.giphy.com/media/okrv1eWeKVM9W/giphy.gif)
  
  Some of it's a shared abhorrence: like code repetition and inadequate naming (my private theory is that behind the [SOLID](https://en.wikipedia.org/wiki/SOLID) principles or [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it) is an enraged developer or developers). 
 
