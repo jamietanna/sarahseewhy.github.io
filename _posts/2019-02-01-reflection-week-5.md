@@ -8,7 +8,7 @@ What a week! I gave a talk on Conflict Resolution to the company and created a t
 
 It's been another busy week for my team. We're experimenting with using the karma commit format for meeting names. It's pretty cool, I'd like to see what the [Google Calendar API](https://developers.google.com/calendar/v3/reference/events) can tell me about how we spend our time.
 
-This week surfaced a few approaches to work I take for granted and I think are worth sharing.
+This week surfaced a few approaches to work I take for granted and are worth sharing.
 
 _____________________________________________________
 
