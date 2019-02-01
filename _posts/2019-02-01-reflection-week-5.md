@@ -49,7 +49,7 @@ It also limits interruptions and speaking over teammates, two behavioural patter
  
 A huddle is 20 minutes or less. I mentally break that 20 minutes into sections: intro (1m), context (3m), discussion (10m), action (5m), closing(1m).
 
-These section/times are guides, not rules. There's wiggle room, but I _must_ stick to the allotted time. 
+These section/times are guides, not rules. There is wiggle room in that 20 minutes.
 
 If we're 10 minutes in to the discussion and a decision is not clear, I call "point of order", remind the group of the goal, and ask if this huddle needs to be turned into a meeting.
 
@@ -57,7 +57,9 @@ If we're 10 minutes in to the discussion and a decision is not clear, I call "po
 
 It's important to say thank you to everyone. Thank the scribe, thank the action volunteers and make sure they know their actions, thank folks for participating. 
 
-Be authentic, it doesn't have to be an Oscar acceptance speech.
+Be authentic.
+
+But it doesn't have to be an Oscar acceptance speech.
 
 <br>
 
