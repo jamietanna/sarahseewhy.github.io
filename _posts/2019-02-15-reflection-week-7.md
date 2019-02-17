@@ -4,6 +4,8 @@ title: Reflection week 7
 date: 2019-02-15
 ---
 
+What happened to week 6 notes? A long weekend away with my best friend exploring Brighton, that's what happened.
+
 This week: experimenting with the Google Calendar API, colouring outside the traditional pairing lines, and what I cant' let go of tech or otherwise.
 
 ### Update on semantic meeting names
