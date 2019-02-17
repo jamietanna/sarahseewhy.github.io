@@ -14,11 +14,11 @@ A few weeks ago I suggested my team experiment with a variation the [Conventiona
 
 I'll write a longer post about this soon.
 
-Recently, I got a [github project](https://github.com/sarahseewhy/meeting-tracker) going and on my 20% time this week I started playing around with a python script to retrieve data about events. It was a neat experience. 
+I got a [github project](https://github.com/sarahseewhy/meeting-tracker) going and on my 20% time this week I started playing around with a python script to retrieve data about events. It was a neat experience. 
 
 I followed a quick start [tutorial](https://developers.google.com/calendar/quickstart/python) provided by Google which only required a one line change to finally get it off the ground. 
 
-The whole thing is still very much work in progress but I want to get in the habit of showing off work that's not "done" let alone "perfect". 
+The whole thing is still very much a work in progress but I want to get in the habit of showing off work that's not "done" let alone "perfect". 
 
 There was a thought-provoking [article in the New York Times](https://www.nytimes.com/2019/02/07/opinion/sunday/girls-school-confidence.html) about how girls learn to believe they need something to be "perfect" before it's "done":
 
@@ -28,7 +28,7 @@ One of the reasons I've avoided working on my own projects in the open or contri
 
 ### Colouring outside the traditional pairing lines
 
-We pair a lot at work and for the most part I'm used to the traditional Driver/Navigator dynamic. Recently however I've been thinking more critically about this approach.
+We pair a lot at work and for the most part I'm used to the traditional Driver/Navigator dynamic. Recently however, I've been thinking more critically about this approach.
 
 I work with a number of developers who prefer to dive in to code, experiment, try and fail. I also enjoy this but I lean towards drawing diagrams, reading or thinking about the problem, and I _love_ refactoring. 
 
@@ -51,3 +51,5 @@ There are still some kinks to iron out. I notice I'm not on the keyboard on days
 I've started reading [_Thanks for the Feedback_](https://www.penguinrandomhouse.com/books/313485/thanks-for-the-feedback-by-douglas-stone-and-sheila-heen/9780143127130/) and it's really good.
 
 It's so good I can't put it down.
+
+I'm itching to do a tech talk or series of posts on the concepts in the book.
