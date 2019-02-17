@@ -6,17 +6,13 @@ date: 2019-02-15
 
 This week: experimenting with the Google Calendar API, colouring outside the traditional pairing lines, and what I cant' let go of tech or otherwise.
 
-What happened to notes for week 6 you ask? Vacation, that's what happened.
-
-It was brilliant.
-
 ### Update on semantic meeting names
 
 A few weeks ago I suggested my team experiment with a variation the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/) for our meeting names (like [karma commits](http://karma-runner.github.io/3.0/dev/git-commit-msg.html)). Using the Google Calendar API I wanted to see what I could learn about how we spent our collaboration time.
 
 I'll write a longer post about this soon.
 
-I got a [github project](https://github.com/sarahseewhy/meeting-tracker) going and on my 20% time this week I started playing around with a python script to retrieve data about events. It was a neat experience. 
+I got a [github project](https://github.com/sarahseewhy/meeting-tracker) going and on my 20% time this week I started working on a python script to retrieve data about events. It was a neat experience. 
 
 I followed a quick start [tutorial](https://developers.google.com/calendar/quickstart/python) provided by Google which only required a one line change to finally get it off the ground. 
 
@@ -54,4 +50,4 @@ I've started reading [_Thanks for the Feedback_](https://www.penguinrandomhouse.
 
 It's so good I can't put it down.
 
-I'm itching to do a tech talk or series of posts on the concepts in the book.
+I'm itching to do a tech talk or series of posts on the book.
