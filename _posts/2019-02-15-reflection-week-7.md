@@ -10,7 +10,7 @@ What happened to notes for week 6 you ask? Vacation, that's what happened.
 
 ### Update on semantic meeting names
 
-A few weeks ago I suggested my team experiment with a variation the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/) for our meeting names (like [karma commits]()). Using the Google Calendar API I wanted to see what I could learn about how we spent our collaboration time.
+A few weeks ago I suggested my team experiment with a variation the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/) for our meeting names (like [karma commits](http://karma-runner.github.io/3.0/dev/git-commit-msg.html)). Using the Google Calendar API I wanted to see what I could learn about how we spent our collaboration time.
 
 I'll write a longer post about this soon.
 
