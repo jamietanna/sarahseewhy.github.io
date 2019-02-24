@@ -37,7 +37,7 @@ I don't have answer.
 
 ## Wednesday
 
-20% Time! I do love this aspect about the company where I work. I spent the day working on my [meeting-tracker](https://github.com/sarahseewhy/meeting-tracker) project.
+20% Time! I do love this aspect of the company where I work. I spent the day working on my [meeting-tracker](https://github.com/sarahseewhy/meeting-tracker) project.
 
 I finished the spike, getting the whole thing to work end to end. I can now run my script and retrieve this:
 
