@@ -12,15 +12,19 @@ _In 2018 I took a course on conflict transformation, I wrote about why and how [
 
 If this all sounds a bit academic, let's compare conflict transformation with something a bit more familiar: conflict resolution.  
 
-| Conflict Resolution | Conflict Transformation |
-| :-------------:|:-------------:|
-| End an unwanted conflict  | End something destructive and create something constructive |
-| Content-centered | Relationship-centered |
-| Seeks to de-escalate conflict | Views conflict as a dynamic part of communication |
-
-Conflict resolution focuses on reducing, mitigating, or defusing conflicts. In contrast, conflict transformation seeks to get at the root causes of conflict and focuses on the potential for change conflict can bring.
+Conflict resolution focuses on reducing, mitigating, or defusing conflicts. In contrast, conflict transformation seeks to get at the root causes of conflict and focuses on how it can lead to constructive change in people, relationships, organisations, and cultures.
 
 ### What is conflict?
+
+Most definitions of conflict focus on combative or oppositional elements. We typically think of two people on opposite sides of an issue arguing. 
+
+Conflict transformation takes a different approach. The course defined conflict as:
+
+ > two ideas sharing space, two intentions sharing space.
+
+A bit more zen, right? 
+
+It speaks to one of the main tenants of conflict transformation: **conflict is normal and can be a catalyst for change**.
 
 ### Thinking about conflict and change
 
