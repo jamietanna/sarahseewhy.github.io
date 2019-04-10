@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learning about conflict transformation, pt. 1
-date: 2019-03-21
+date: 2019-04-10
 ---
 
 _In 2018 I took a course on conflict transformation, I wrote about why and how [here]({% post_url 2019-02-26-conflict-is-hard-intro %}). This first post introduces the concept of conflict transformation. I'll talk a bit about definitions of conflict before delving into how conflict transformation unpacks the term and why that's important. It's a long-format post so grab a hot beverage and get comfy._
@@ -34,14 +34,6 @@ To be clear, the way the course defined conflict does not include forms of viole
 
 We tend to think of communication as an uninterrupted ebb and flow of information. Conflict is perceived as breaking that flow because it puts people in opposition and halts the information exchange.<sup>*</sup> 
 
-Sort of like this
- 
- Communication without conflict:
- ![left-write-arrow](/public/images/left-right-arrow.png)
-
-A conflict: 
-![rightwards](/public/images/rightwards-arrow.png) ![leftwards](/public/images/leftwards-arrow.png)️
- 
 Conflict transformation asks us to see conflict as a _type_ of communication, a normal and necessary part of how humans interact which can teach us something about ourselves and others.
 
 In a conflict, the information exchange between individuals continues but in a more emotionally charged way.
@@ -91,7 +83,9 @@ As the course phrased it:
 
 Day-to-day interactions become chances to grow and reach towards mutual understanding. It also implies our actions have meaning and consequence in larger structural and cultural systems. 
 
-At the risk of sounding contrived, a transformative approach argues change cannot happen without conflict. The sooner we embrace the constructive role we can take the sooner we'll be able to see our power to bring about the changes we want to see in ourselves, our relationships, our workplaces, and our world.
+At the risk of sounding contrived, a transformative approach argues change cannot happen _without_ conflict. 
+
+The sooner we embrace conflict's potentially constructive role in change, the sooner we realise we have the power to bring about the changes we want to see in ourselves, our relationships, our workplaces, and our world.
 
 <br>
 
