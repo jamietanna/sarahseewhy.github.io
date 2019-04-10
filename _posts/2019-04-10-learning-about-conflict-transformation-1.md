@@ -4,7 +4,7 @@ title: Learning about conflict transformation, pt. 1
 date: 2019-04-10
 ---
 
-<sub>_In 2018 I took a course on conflict transformation, I wrote about why and how [here]({% post_url 2019-02-26-conflict-is-hard-intro %}). This first post introduces the concept of conflict transformation. I'll talk a bit about definitions of conflict before delving into how conflict transformation unpacks the term and why that's important. It's a long-format post so grab a hot beverage and get comfy._</sub>
+<sub>In 2018 I took a course on conflict transformation, I wrote about why and how [here]({% post_url 2019-02-26-conflict-is-hard-intro %}). This first post introduces the concept of conflict transformation. I'll talk a bit about definitions of conflict before delving into how conflict transformation unpacks the term and why that's important. It's a long-format post so grab a hot beverage and get comfy.</sub>
 
 ----------------------------------------------------------------
 
