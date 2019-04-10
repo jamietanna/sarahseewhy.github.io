@@ -32,7 +32,7 @@ To be clear, the way the course defined conflict does not include forms of viole
 
 ### Conflict is normal
 
-We tend to think of communication as an uninterrupted ebb and flow of information. Conflict is perceived as breaking that flow because it puts people in opposition and halts the information exchange.<sup>*</sup> 
+We tend to think of communication as an uninterrupted ebb and flow of information. Conflict is perceived as breaking that flow because it puts people in opposition and halts the information exchange.
 
 Conflict transformation asks us to see conflict as a _type_ of communication, a normal and necessary part of how humans interact which can teach us something about ourselves and others.
 
