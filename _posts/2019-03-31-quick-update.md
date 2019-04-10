@@ -11,9 +11,11 @@ Taking time to pause was the right choice. It's refreshing to delve into activit
 #### Coding
 I've been revisiting [code katas](http://codekata.com/), first dabbling in Python and then delving into Java. It was time to get back to my OO programming roots.
 
-I'd forgotten how much fun Java can be and how katas are sneakily enthralling. I went to sleep thinking about a problem and woke up with the solution. I've been especially inspired by this [OO Calisthenics video](https://www.youtube.com/watch?v=kBNThogwWYw&t). It would be interesting to apply the [calisthenics rules](https://williamdurand.fr/2013/06/03/object-calisthenics/) to other katas I'm trying.
+I'd forgotten how much fun Java can be and how katas are sneakily enthralling. I went to sleep thinking about a problem and woke up with the solution – love it when that happens.
 
-Katas in Python is the next play activity.
+I've been especially inspired by this [OO Calisthenics video](https://www.youtube.com/watch?v=kBNThogwWYw&t). It would be interesting to apply the [calisthenics rules](https://williamdurand.fr/2013/06/03/object-calisthenics/) to other katas I'm trying.
+
+Up next: katas in Python.
 
 #### Reading
 I recently finished [_Thanks for the Feedback_](https://www.penguinrandomhouse.com/books/313485/thanks-for-the-feedback-by-douglas-stone-and-sheila-heen/9780143127130/) and it's been invaluable. 
