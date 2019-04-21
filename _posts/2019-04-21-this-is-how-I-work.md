@@ -107,11 +107,11 @@ The project seeks to answer some of the following: How many meetings vs huddles 
 
 ### Who else would you like to see answer these questions?
 
-My team. Grace Hopper if she could. Leslie Knope.
+My team. Grace Hopper from beyond. Leslie Knope.
 
 ### What’s the best advice you’ve ever received?
 
-_Seek first to understand, then to be understood_ - thank you [Steve Hayes](https://twitter.com/Steve_Hayes) for introducing this to me.
+_Seek first to understand, then to be understood_ - thank you [Steve Hayes](https://twitter.com/Steve_Hayes) for introducing me to this.
 
 _Set the pace that's right for you right now_ - my partner.
 
