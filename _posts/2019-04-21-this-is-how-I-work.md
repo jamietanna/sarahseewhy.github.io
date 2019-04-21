@@ -72,9 +72,9 @@ It allows your pre-frontal cortex (the thing in charge of empathy, attuned commu
 
 ### Take us through an interesting, unusual, or finicky process you have in place at work
 
-Probably our continuous integration process. We do CI but without the integration 'servers', deploying straight from workstations to production (no staging/UAT/pre-prod environments) with any new features enabled/disabled with feature toggles. 
+Probably our continuous integration process. We do CI but without the official integration servers. Deployments happen straight from workstations to production (no staging or pre-prod environments) with any new features enabled/disabled with feature toggles. We also do trunk-based development.
 
-Historically the team has discussed whether the maintenance and cost of a CI system outweighs the benefits and the answer has so far been 'yes, for now'.
+Historically the team has previously discussed on a number of occasions whether the maintenance and cost of a CI system outweighs the benefits and the answer has so far been 'yes, for now'.
 
 ### How do you keep track of what you have to do?
 
