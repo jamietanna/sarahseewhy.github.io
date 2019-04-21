@@ -48,7 +48,7 @@ I started as a web developer before switching to backend Java development and ul
 
 ### Take us through a recent workday
 
-A typical workday looks like getting to the office around 8:30 to gather my thoughts and do a bit of what my team calls 'gardening'. These are tasks which improve our codebases, enable our team to move faster, or help us learn more about our stack.
+A typical workday looks like getting to the office around 8:30 to gather my thoughts and do a bit of what my team calls 'gardening'. These are tasks which improve our codebases, enable the team to move faster, or help us learn more about our stack.
 
 Stand-up starts at 9:45 when we [Walk the Wall](https://martinfowler.com/articles/itsNotJustStandingUp.html), surface any blockers, and decide that day's focus.
 
