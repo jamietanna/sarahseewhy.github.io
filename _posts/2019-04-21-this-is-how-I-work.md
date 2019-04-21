@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This is how I work ... give or take
-date: 2019-04-19
+date: 2019-04-21
 ---
 
 This is a belated response to my Team Lead's [challenge](https://blog.probablyfine.co.uk/2018/11/22/how-i-work-give-or-take.html) to fill out ["This is how I work...give or take"](https://medium.com/@stevenjmesser/this-is-how-i-work-give-or-take-7284534ac37f).
