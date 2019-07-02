@@ -8,11 +8,6 @@
 
 I'm pragmatic, curious, determined, and cheerful –– a combination of Leslie Knope from _Parks and Recreation_ and Captain Janeway from _Star Trek: Voyager_. 
 
-
-I also deeply connect with Mo's character from _Wall-E_, especially when it comes to refactoring. 
-
-I swear this is footage of me tidying up code:
-
 ### What would you say is your "specialism"?
 
 I'm fascinated by the interplay between culture and code-writing, and am driven to better understand the human aspects of software development as well as the technological.
