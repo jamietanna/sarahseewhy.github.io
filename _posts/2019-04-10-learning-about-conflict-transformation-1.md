@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning about conflict transformation, pt. 1
+title: What is conflict transformation?
 date: 2019-04-10
 ---
 

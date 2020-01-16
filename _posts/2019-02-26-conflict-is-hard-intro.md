@@ -22,7 +22,9 @@ The next few posts will capture what I learned both on the course and the supple
 ```
 I. Intro to conflict: what is it?
 
-II. How we do conflict: styles and contexts
+II. Conflict styles
+
+II.v Conflict styles in context
 
 III. Analysing conflict: tools and frameworks
 
