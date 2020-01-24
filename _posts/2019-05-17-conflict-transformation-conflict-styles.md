@@ -12,6 +12,8 @@ Ever clam up when you see friends or colleagues get into a disagreement? Or mayb
 
 All of these scenarios are examples of different styles of conflict. 
 
+<br>  
+
 ## Styles of conflict
 
 In the 1970s [psychologists Kenneth Thomas and Ralph Kilmann developed a model](https://en.wikipedia.org/wiki/Thomas–Kilmann_Conflict_Mode_Instrument) to better understand the different styles we use to respond to conflict. They classified five main conflict styles: **competing**, **avoiding**, **collaborating**, **accommodating**, and **compromising**. Thomas and Kilman mapped these conflict styles on to a chart based on two axes ("assertiveness" and "cooperativeness"):
