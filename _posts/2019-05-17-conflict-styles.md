@@ -78,3 +78,7 @@ Conflict Transformation encourages us to step back, reflect on each of these sty
 
 In the next post I'll talk about how to use different styles in different contexts. Stay tuned.
 
+<br>
+
+Note: You can find out your conflict style profile by [taking a survey](https://www.usip.org/public-education/students/conflict-styles-assessment) developed by the United States Institute of Peace.
+
