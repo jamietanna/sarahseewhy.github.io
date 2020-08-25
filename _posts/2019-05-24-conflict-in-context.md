@@ -40,7 +40,7 @@ When we map the different conflict styles on an X and Y axis of **issues** and *
 
 ![Conflict Styles](/public/images/styles_in_context.png)
 
-This diagram demonstrates both behavioural patterns of when we gravitate towards a style and also how to choose what style to use based on the context.
+This diagram demonstrates both the behavioural patterns of when we gravitate towards a style and also how to choose what style to use based on the context.
 
 When we feel more strongly about an issue than we feel invested in a relationship then we gravitate towards the competing style. 
 
