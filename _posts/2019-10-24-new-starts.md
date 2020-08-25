@@ -4,17 +4,11 @@ title: New starts
 date: 2019-10-24
 ---
 
-Wait, what happened to reflections for weeks 17-42?
-
-The short answer is time zipped passed at light-speed, leaving me in the dust. The long answer is, well, longer. For now I'll focus on the musings from the past week.  
-
 ### The need for belonging
 
 I've recently joined a new organisation. There are new challenges, new problems to solve, and some really neat infrastructure. The people I work with are smart, thoughtful, and fun to be around. 
 
-But...
-
-In the background I sense something is a bit off. I'm not as fearless or as confident as before. 
+But in the background I sense something is a bit off. I'm not as fearless or as confident as before. 
 
 Mistakes loom larger and linger. Catastrophising is easier: a commit typo demonstrates my obvious ineptitude, a misunderstanding of terraform wiring proves I shouldn't be a software developer.
 
