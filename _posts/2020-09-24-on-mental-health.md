@@ -26,7 +26,7 @@ PTSD stands for [Post-Traumatic Stress Disorder](https://www.mind.org.uk/informa
 
 Psychologists don't know why some walk away from trauma without a mental scratch and others are haunted for the rest of their lives. I'm in the latter group. 
 
-Over the years I've learned what contributes to an attack. They're infrequent but can be devastating. 
+Over the years I've learned what contributes to an attack. The attacks are infrequent but can be devastating. 
 
 Frustratingly, it's still challenging to pinpoint the complex interplay of variables and I can be blindsided by interactions.
 
