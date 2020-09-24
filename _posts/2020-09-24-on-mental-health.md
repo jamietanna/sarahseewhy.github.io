@@ -10,7 +10,7 @@ _It's been quite awhile since I've written and I want to talk about why. Heads-u
 
 I stopped writing in 2019 and 2020 because I was wrestling with my mental health. 
 
-Depression is different for each person and can take different forms in the same person. I've had depression creep up on me like a fog: slowly, quietly, without me really knowing it until I can't see a step ahead of myself.
+Depression is different for each person and can take different forms in the same person. I've had depression creep up on me like a fog: slowly, quietly, until I can't see a step ahead of myself.
 
 I've also had depression strike like a lightning bolt. 
 
