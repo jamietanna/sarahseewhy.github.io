@@ -48,7 +48,7 @@ Just over a year has gone by and I've finally found the words.
 
 In tech blogs we're not supposed to write about personal stuff, not mental health in software development, and definitely not sexual trauma or PTSD.
 
-But we're human: we all have mental health as well as physical health; and many of us who have experienced trauma carry that trauma with us to work. 
+But we're human: we all have mental health as well as physical health –– and many of us who have experienced trauma carry that trauma with us to work. 
 
 This is not a choice, we cannot leave these parts of ourselves behind.
 
