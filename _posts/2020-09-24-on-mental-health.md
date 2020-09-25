@@ -30,7 +30,7 @@ Over the years I've learned what contributes to an attack. The attacks are infre
 
 Frustratingly, it's still challenging to pinpoint the complex interplay of variables and I can be blindsided by interactions.
 
-In May 2019 I was blindsided by an interaction at work that triggered the PTSD and for the next few weeks I lived in near-constant fear, reliving my trauma almost every day. This culminated in a severe panic attack which spiralled into a depressive episode. 
+In May 2019 I was blindsided by an unremarkable interaction at work that triggered the PTSD and for the next few weeks I lived in near-constant fear, reliving my trauma almost every day. This culminated in a severe panic attack which spiralled into a depressive episode. 
 
 I lost the will to live overnight and have spent the past year piecing myself back together.
 
