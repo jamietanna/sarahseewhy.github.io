@@ -37,7 +37,7 @@ From action-focused to organic discussions I love facilitating group gatherings.
 I love this part of my job: communicating complex ideas to an audience, making the inaccessible accessible. I draw visuals and build analogies. My favourite was the CentOS 7 Line: a tube map visual guide to our progress upgrading OS versions.
  
 #### 🗣 public speaking and teaching
-I've been teaching since my very first ABC lesson to my teddy bears. The freest I've ever felt is in front of a group, teaching or speaking on what I'm passionate about. It feels like I'm flying.
+The freest I've ever felt is in front of a group, teaching or speaking on what I'm passionate about. It feels like I'm flying.
 
 #### 📈 developing SLxs
 I do enjoy these puzzles. I like the emphasis on the end user experience, and building infrastructure with that as the foundation. I also appreciate the complexity, though it can drive me up the wall. 
