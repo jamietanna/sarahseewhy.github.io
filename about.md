@@ -17,7 +17,7 @@ __________________________________________
 This is the sweet spot for me, where I get my purpose. I like technical problem solving, I always will, but I love questions of culture and team dynamics. Effective communication is what makes good software development possible.
 
 #### 🌈 advocating for diversity, inclusivity, and anti-racism
-I became a software developer to unlearn the stereotypes about women in STEM that I'd internalised growing up. Now that I'm here, I want to build organisations that are diverse, inclusive, and anti-racist. Every day.
+I became a software developer to unlearn the stereotypes about women in STEM I'd internalised growing up. Now that I'm here, I want to build organisations which are diverse, inclusive, and anti-racist. Every day.
 
 #### 👐 curious, collaborative people who practice vulnerability
 For me, these are the core elements of a high performing team, one that's grounded in joy, resilience, and the ability to take interpersonal risk. They're also a lot of fun.
