@@ -57,7 +57,7 @@ Spoken word poet Andrea Gibson in "Blue Blanket"<sup>*</sup>, a poem about rape,
 
 I sometimes think trauma is like that: land mines in our souls. 
 
-One of the reasons I read and talk about effective communication and conflict transformation is for self-preservation.
+One of the reasons I read and talk about effective communication and conflict transformation is for self-preservation: I have land mines in my soul.
 
 I also believe the people I work with have land mines of their own. 
 
