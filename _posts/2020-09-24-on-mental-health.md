@@ -26,23 +26,21 @@ PTSD stands for [Post-Traumatic Stress Disorder](https://www.mind.org.uk/informa
 
 Psychologists don't know why some walk away from trauma without a mental scratch and others are haunted for the rest of their lives. I'm in the latter group. 
 
-Over the years I've learned what contributes to an attack. The attacks are infrequent but can be devastating, though I get better at healing every day. 
+Over the years I've learned what contributes to an attack. The attacks are infrequent, two in the last ten years, but can be devastating. I've gotten much better at bouncing back. 
 
 Frustratingly, it's still challenging to pinpoint the complex interplay of variables and I can be blindsided by interactions.
 
 In May 2019 I was blindsided by an unremarkable interaction at work that triggered the PTSD and for the next few weeks I lived in near-constant fear, reliving my trauma almost every day. This culminated in a severe panic attack which spiralled into a depressive episode. 
 
-I lost the will to live overnight and have spent the past year piecing myself back together.
+I lost the will to live overnight and spent the next few months piecing myself back together.
 
 It's the reason I stopped writing. 
 
-I tried, but writing without acknowledging what I was going through felt hollow and disingenuous. 
+I tried, but writing without acknowledging what had happened felt hollow and disingenuous. 
 
 For the longest time I had neither the courage nor the ability to describe what happened. 
 
 Yet, for me, healing has only come through surfacing that trauma, being honest and being vulnerable.
-
-Just over a year has gone by and I've finally found the words.
 
 -----------------------------------
 
