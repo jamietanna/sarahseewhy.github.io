@@ -38,7 +38,7 @@ It's the reason I stopped writing.
 
 I tried, but writing without acknowledging what had happened felt hollow and disingenuous. 
 
-For the longest time I had neither the courage nor the ability to write about what was going on –– it's not unusual for survivors of sexual trauma to stay silent because of shame or the fear of retribution. 
+For the longest time I had neither the courage nor the ability to write about what was going on –– it's not unusual for survivors of sexual trauma to stay silent because of shame or the fear of being judged. 
 
 Yet for me, healing has only come through surfacing that trauma, being honest and being vulnerable.
 
