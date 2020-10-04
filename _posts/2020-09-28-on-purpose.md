@@ -13,7 +13,7 @@ The second hardest thing in software development is realising that who you are w
 
 The third hardest thing is obviously naming.
 
-What I wish I'd know when I started as a developer was how important this question would be to me professionally.
+What I wish I'd known when I started as a developer was how important this question would be to me professionally.
 
 ### Why does it matter?
 
