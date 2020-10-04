@@ -19,7 +19,7 @@ What I wish I'd know when I started as a developer was how important this questi
 
 This question matters because the sooner we discover and accept who we are, the sooner we're able to tap into what brings us joy, what we're skilled at, and ultimately what gives us purpose.
 
-I've spent years trying to fit into a box of what a developer "is", or at least what I thought I developer should be. 
+I've spent years trying to fit into a box of what a developer "is", or at least what I thought a developer should be. 
 
 A lot of these ideas were based on internalised stereotypes of developers: analytical to an extreme, consumed by every programming problem, adept at any new language, able to retain even the most esoteric operating system knowledge.
 
