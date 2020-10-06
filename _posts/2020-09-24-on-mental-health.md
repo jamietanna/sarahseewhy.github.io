@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On mental health
+title: On mental health and the past year
 date: 2020-09-24
 ---
 
@@ -18,7 +18,7 @@ I go to sleep with the ability to feel and wake up dead inside, the power to emo
 
 It's hard to convey how disturbing that absence of feeling can be. 
 
-The absence is both physically painful, an internal grating sensation, and like a deafening, terrifying silence or emptiness.
+It's both physically painful, an internal grating sensation, and like a deafening, terrifying silence or emptiness.
 
 I get this type of depression because I experience panic attacks. I experience panic attacks because I have PTSD. I have PTSD because I am survivor of sexual trauma.
 
@@ -30,7 +30,7 @@ Over the years I've learned what contributes to an attack. The attacks are infre
 
 Frustratingly, it's still challenging to pinpoint the complex interplay of variables and I can be blindsided by interactions.
 
-In May 2019 I was blindsided by an unremarkable interaction at work that triggered the PTSD and for the next few weeks I lived in near-constant fear, reliving my trauma almost every day. This culminated in a severe panic attack which spiralled into a depressive episode. 
+In May 2019 I was blindsided by an interaction that triggered the PTSD and for the next few weeks I lived in near-constant fear, reliving my trauma almost every day. This culminated in a severe panic attack which spiralled into a depressive episode. 
 
 I lost the will to live overnight and spent the next few months piecing myself back together.
 
@@ -38,9 +38,9 @@ It's the reason I stopped writing.
 
 I tried, but writing without acknowledging what had happened felt hollow and disingenuous. 
 
-For the longest time I had neither the courage nor the ability to describe what happened. 
+For the longest time I had neither the courage nor the ability to write about what was going on –– it's not unusual for survivors of sexual trauma to stay silent because of shame or the fear of being judged. 
 
-Yet, for me, healing has only come through surfacing that trauma, being honest and being vulnerable.
+Yet for me, healing has only come through surfacing that trauma, being honest and being vulnerable.
 
 -----------------------------------
 
