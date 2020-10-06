@@ -24,7 +24,7 @@ I get this type of depression because I experience panic attacks. I experience p
 
 PTSD stands for [Post-Traumatic Stress Disorder](https://www.mind.org.uk/information-support/types-of-mental-health-problems/post-traumatic-stress-disorder-ptsd). It develops after experiencing a traumatic event. 
 
-Psychologists don't know why some walk away from trauma without a mental scratch and others are haunted for the rest of their lives. I'm in the latter group. 
+Psychologists don't know why some people walk away from trauma without a mental scratch and others are haunted for the rest of their lives. I'm in the latter group. 
 
 Over the years I've learned what contributes to an attack. The attacks are infrequent, two in the last ten years, but can be devastating. I've gotten much better at bouncing back. 
 
