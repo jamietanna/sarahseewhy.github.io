@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week note
+title: Week notes
 date: 2020-10-09
 ---
 
