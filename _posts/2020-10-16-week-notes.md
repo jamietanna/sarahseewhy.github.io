@@ -42,7 +42,7 @@ The first is Brené Brown's [podcast on the psychology of burnout](https://brene
 
 The interview focused on how we experience and <ins>hold</ins> feelings and stress somatically (in our body).
 
-This connects to what I've read about trauma as well, from Resmaa Menakem's [_My Grandmother's Hands_](https://centralrecoverypress.com/product/my-grandmothers-hands-racialized-trauma-and-the-pathway-to-mending-our-hearts-and-bodies-paperback) on racialised trauma to Bessel van der Kolk's [_The Body Keeps the Score_](https://www.besselvanderkolk.com/resources/the-body-keeps-the-score) on the impact of trauma on the body and brain.
+This connects to what I've read about trauma as well, from Resmaa Menakem's [_My Grandmother's Hands_](https://centralrecoverypress.com/product/my-grandmothers-hands-racialized-trauma-and-the-pathway-to-mending-our-hearts-and-bodies-paperback), a study of racialised trauma, to Bessel van der Kolk's [_The Body Keeps the Score_](https://www.besselvanderkolk.com/resources/the-body-keeps-the-score) which explores trauma's impact on the body and brain.
 
 The second can't-let-it-go was stumbling on the work of coder and developer advocate [Lola Odelola](https://twitter.com/lolaodelola), founder of [blackgirl.tech](https://blackgirl.tech/).
 
