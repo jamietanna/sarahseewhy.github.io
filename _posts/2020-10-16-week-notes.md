@@ -32,7 +32,7 @@ It also brings us together –– especially shared laughter.
 
 A [bunch](https://pubmed.ncbi.nlm.nih.gov/3302270/) [of](https://link.springer.com/article/10.3758/BF03330380) [research](https://onlinelibrary.wiley.com/doi/abs/10.1111/pere.12095) indicates shared laughter helps people feel more connected in a group. 
 
-Some [social psychology researchers](https://greatergood.berkeley.edu/article/item/how_laughter_brings_us_together#thank-influence) think this could because shared laughter encourages "perceived similarity" (a connection booster) between people.
+Some [social psychology researchers](https://greatergood.berkeley.edu/article/item/how_laughter_brings_us_together#thank-influence) think this could be because shared laughter encourages "perceived similarity" (a connection booster) between people.
 
 ### Can't let it go
 
