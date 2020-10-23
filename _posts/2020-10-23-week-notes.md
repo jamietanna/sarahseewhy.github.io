@@ -59,7 +59,7 @@ That's a fluffy way of saying "when in Rome, do as the Romans...at least at firs
 
 There's no use going to a social situation like a wrecking ball.
 
-It's something I keep having to remind myself because I believe in practicing [radical candour](https://www.radicalcandor.com), but not everybody does.
+It's something I remind myself because I believe in practicing [radical candour](https://www.radicalcandor.com), but not everybody does.
 
 As we begin to re-form as an entirely new team I want to stay mindful and curious of the existing norms before working with the team to build new ones.
 
