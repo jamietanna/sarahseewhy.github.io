@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (Re)reading Site Reliability Engineering
-date: 2020-10-23
+date: 2020-10-22
 ---
 
 Picking up [_Site Reliability Engineering: how Google runs production systems_](https://landing.google.com/sre/sre-book/toc/index.html) again has felt like a breath of fresh air. 
