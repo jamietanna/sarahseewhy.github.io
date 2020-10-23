@@ -18,7 +18,7 @@ The first chapter's section on monitoring really spoke to me.
 
 I appreciated their point that "monitoring should never require a human to interpret the alerting domain". 
 
-One of my biggest pet peeves are alerts with no, or poorly worded, descriptions. 
+One of my biggest pet peeves is alerts with no, or poorly worded, descriptions. 
 
 I also <ins>completely</ins> agreed with the authors: alerts to should be a call to action, not an FYI from the system.
 
