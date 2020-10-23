@@ -28,7 +28,7 @@ The task can feel insurmountable, especially if there are lots of alerts.
 
 On my last team, we started by inventorying all our alerts, creating a wiki which explained what the alert meant and tips on how to resolve it (a pseudo-playbook if you will).
 
-We then iterated on the doc and began to ask whether we needed the alert at all or in a different form (e.g., grafana graph). There was room for further iteration towards more automation (hello chat-ops!) but I'd said farewell by that time.
+We then iterated on the doc and began asking whether we needed the alert at all or just in a different form (e.g., grafana graph). There was room for further iteration (hello chat-ops!) but I'd said farewell by that time.
 
 One of the things I appreciate about my current organisation is their use of playbooks. I know playbooks aren't universally popular, but it made on-boarding to on-call so much easier and quicker. 
 
@@ -36,7 +36,7 @@ The downside of course is maintaining the alert documentation which can get exha
 
 #### Change management, demand forecasting, & capacity management
 
-The two areas where I'd love to work with an SRE team that's "got it right" is change management and demand forecasting/capacity planning.
+The two areas where I'd love to delve further is change management and demand forecasting/capacity planning.
 
 At my last company we used trunk-based development and small commits. Rolling back was straight forward but perhaps could've been more automated. 
 
