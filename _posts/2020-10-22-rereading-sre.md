@@ -20,7 +20,7 @@ I appreciated their point that "monitoring should never require a human to inter
 
 One of my biggest pet peeves is alerts with no, or poorly worded, descriptions. 
 
-I also <ins>completely</ins> agreed with the authors: alerts to should be a call to action, not an FYI from the system.
+I also <ins>completely</ins> agreed with the authors: alerts should be a call to action, not an FYI from the system.
 
 We achieved this at my last workplace and need to get to this point on the team I've just joined (the infrastructure needs a bit of TLC).
 
