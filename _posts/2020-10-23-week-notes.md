@@ -51,7 +51,7 @@ My solo work in the morning is currently dedicated to inventorying, documenting,
 
 I think after all the katas I did last week, I miss the programming side of my job.
 
-#### Calibrating communication
+#### Recalibrating communication
 
 One of the challenges of joining a new team or even company, is recalibrating communication style (perhaps initially).
 
