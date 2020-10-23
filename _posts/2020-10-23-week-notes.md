@@ -14,7 +14,8 @@ Thought I'd give it a go.
 
 ### What worked
 
-#### Creating a schedule
+#### Keeping to a schedule
+
 I implemented a schedule for my work hours and my downtime. 
 
 Now, I know this sounds painfully regimented but I treated it more like a flexible guideline –– a suggestion for how I could be spending my time.
