@@ -26,7 +26,7 @@ If you don't know about these incredible organisations<sup>*</sup> that celebrat
 
 - [UKBlackTech](https://ukblacktech.com/)
 - [AfroTech Fest](https://www.afrotechfest.co.uk/)
-- [Black Coding Females](https://codingblackfemales.com/)
+- [Coding Black Females](https://codingblackfemales.com/)
 - [Black in AI](blackinai.org)
 - [BLCK VC](blckvc.com)
 - [Black Women in Tech](https://www.techlondonadvocates.org.uk/working-groups/black-women-in-tech/)
