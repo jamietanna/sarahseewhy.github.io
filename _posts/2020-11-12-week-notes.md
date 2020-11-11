@@ -6,7 +6,7 @@ date: 2020-11-12
 
 External events (cough _the US election_ cough) occupied an inordinate amount of my attention the last few weeks. However, I'm back with a week note to capture a few thoughts and reflections.
 
-The mini-retro format worked well so I'm using it again.
+The mini-retro format worked for me so I'm using it again.
 
 -----------------------
 
