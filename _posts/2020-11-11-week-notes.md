@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week notes
-date: 2020-11-12
+date: 2020-11-11
 ---
 
 External events (cough _the US election_ cough) occupied an inordinate amount of my attention the last few weeks. However, I'm back with a week note to capture a few thoughts and reflections.
