@@ -36,7 +36,7 @@ Stand-out quote that paraphrased [Verna Myers](https://twitter.com/VernaMyers):
 
 #### Rereading _Site Reliability Engineering_
 
-It really was rather fun. So fun I [wrote a whole reflection piece]({% post_url 2020-10-23-rereading-sre %}).
+It really was rather fun. So fun I [wrote a whole reflection piece]({% post_url 2020-10-22-rereading-sre %}).
 
 -----------
 
