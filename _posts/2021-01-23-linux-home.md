@@ -90,7 +90,7 @@ While non-essential applications are located in `/usr/bin`, critical system prog
 
 What is an essential room in a house? Well, in my opinion a bathroom with an in-door toilet is _absolutely_ essential.
 
-I've used outhouses on farms and the odd cabin in my life and it's what I'd describe as a character building experience (at least the outhouses I've used, I'm sure there are lovely ones not infested with spiders that also exist).
+I've used outhouses on farms and the odd cabin in my life and it's what I'd describe as a character building experience (at least the outhouses I've used, I'm sure there are lovely ones not infested with spiders).
 
 A. **B**athroom. **I**s. **N**ecessary. Or `/bin`
 
