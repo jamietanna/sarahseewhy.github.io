@@ -110,7 +110,7 @@ Where else would you store bubble bath or epsom salts? Post-bath moisturiser or 
 
 Boudoirs can also have closets which means I can hang my comfy bathrobe next to my get-stuff-done boiler overalls, and thereby have a connection to both `/bin` and `/sbin`.
 
-Ok fine, it's a bit of a stretch –– but I like it.
+Ok fine, it's a bit of a stretch –– but I like it, it feels decadent and a bit outrageous.
 
 ## Bedroom as `/home`
 
