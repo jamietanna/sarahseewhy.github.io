@@ -34,7 +34,7 @@ I shared the doodle with some developer and SRE friends and it sparked a lively 
 
 The entire house should be viewed as the `/` directory, with each subdirectory a room in the house.
 
-## Basement or `/sbin`
+## Basement as `/sbin`
 
 The `/sbin` directory holds system administrator binaries. These are essential binaries for system administration and are usually run by the root user.
 
@@ -44,7 +44,7 @@ Only people who know how to use the boiler go down there (sort of like a root us
 
 Yes, I know Americans are weird and put their boilers in the basement. I have no idea why either.
 
-## Library or `/usr`
+## Library as `/usr`
 
 `/usr`, or user binaries, contains all the applications and files used by users on the operating system. This is in contrast to applications and files used by the system (e.g., `root`). 
 
@@ -56,7 +56,7 @@ I slightly objected to the implication that books are "non-essential" to a house
 
 Plus, I liked the idea that different shelves could represent different subdirectories: a shelf for all the boiler and laundry manuals (`/usr/sbin`) and a shelf for all other books (`/usr/bin`).
 
-## Craft room or `/var`
+## Craft room as `/var`
 
 It seemed sensible to put `/var` next to `/usr` because the two are connected. 
 
@@ -66,7 +66,7 @@ Making `/var` a Victorian "writing room" fit well but I preferred the idea of ha
 
 Also, I didn't want to confuse a writing room with a study because I knew I needed the latter for `/etc`.
 
-## Study or `/etc`
+## Study as `/etc`
 
 This is a bit of a stretch, but bear with me.
 
@@ -80,7 +80,7 @@ I drew a router and a barely visible fuse box on the left wall and decided the m
 
 I also imagined this room as the control centre for all the fancy IoT devices which 21<sup>st</sup> century houses now have.
 
-## Bathroom or `/bin`
+## Bathroom as `/bin`
 
 `/bin` to bathroom is rather fun.
 
@@ -94,7 +94,7 @@ I've used outhouses on farms and the odd cabin in my life and it's what I'd desc
 
 A. **B**athroom. **I**s. **N**ecessary. Or `/bin`
 
-## Boudoir or `/lib`
+## Boudoir as `/lib`
 
 This might be another stretch but a fun one.
 
@@ -112,7 +112,7 @@ Boudoirs can also have closets which means I can hang my comfy bathrobe next to 
 
 Ok fine, it's a bit of a stretch –– but I like it.
 
-## Bedroom or `/home`
+## Bedroom as `/home`
 
 This was perhaps the easiest. `/home` contains the folders for each individual user, their data, and user-specific configuration.
 
