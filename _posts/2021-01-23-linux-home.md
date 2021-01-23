@@ -78,7 +78,7 @@ So why a study? Well, what's critical to house configuration? I think wifi and e
 
 I drew a router and a barely visible fuse box on the left wall and decided the most sensible place to put a router would be a study. The fuse box was a bit out there but never mind. 
 
-I also imagined this room as the control centre for all the fancy IoT devices which 21<sup>st</sup> century houses now have.
+I also imagined this room as the control centre for all the futuristic IoT devices which super fancy 21<sup>st</sup> century houses now have.
 
 ## Bathroom as `/bin`
 
