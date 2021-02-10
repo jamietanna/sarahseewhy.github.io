@@ -4,7 +4,7 @@ title: Month note
 date: 2021-02-10
 ---
 
-Well, this past month has been busy. I'm glad I got my Linux Home blog out but that hasn't left as much time for week notes. I've been caught up in the whirl wind of to-do lists and new responsibilities.
+This past month has been busy. I'm glad I got my Linux Home blog out but that hasn't left as much time for week notes. I've been caught up in the whirl wind of to-do lists and new responsibilities.
 
 Here are a few reflections.
 
@@ -76,7 +76,7 @@ I found this technique useful as a teacher and have found it useful in the last 
 
 ### Currently reading
 
-In the last month I've worked through a few books:
+I've worked through a few books since December:
 
 * Octavia Butler's _Parable of the Sower_ (really good)
 * Afua Hirsch's _Brit(ish)_ (also really good)
