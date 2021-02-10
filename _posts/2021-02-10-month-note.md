@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Month note
-date: 2021-02-09
+date: 2021-02-10
 ---
 
 Well, this past month has been busy. I'm glad I got my Linux Home blog out but that hasn't left as much time for week notes. I've been caught up in the whirl wind of to-do lists and new responsibilities.
