@@ -22,7 +22,7 @@ The other challenge, which I'll get to next, has been internal and is far more d
 
 ### FFT
 
-Brené Brown's [podcast on F***ing First Times](https://brenebrown.com/podcast/brene-on-ffts/) captures the how scary, awkward, and vulnerable it can feel to do something for the first time (like tech leading).
+Brené Brown's [podcast on F***ing First Times](https://brenebrown.com/podcast/brene-on-ffts/) captures how scary, awkward, and vulnerable it can feel to do something for the first time (like tech leading).
 
 I can definitely relate; in the last few weeks I've had my moments of fear, face-palm-awkwardness, and a healthy dose of vulnerability.
 
@@ -44,11 +44,11 @@ When I'm stressed, this post-it is a helpful reminder to breathe.
 
 #### `Resist the temptation to add value to a conversation`
 
-I found this quote in the book [_Culture Code_](http://danielcoyle.com/the-culture-code/) on and I love it. I come from a talkative family and it's a helpful reminder that as I leader I want to be listening more than speaking. 
+I found this quote in the book [_Culture Code_](http://danielcoyle.com/the-culture-code/) and I love it. I come from a talkative family and it's a helpful reminder that as I leader I want to be listening more than speaking. 
 
 #### `Seek first to understand, then to be understood`
 
-This is one of my favourite sayings from my former CTO. Over the last few years I've found it far more useful to ask clarifying questions than immediately responding.
+This is one of my favourite sayings from my former CTO. Over the last few years I've found it far more useful to ask clarifying questions than immediately respond.
 
 It also speaks to "communicating generously", something Denise Yu touches on in her blog ["Habits of High Functioning Teams"](https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html):
 
@@ -72,7 +72,7 @@ It was not unlike an actor developing or performing a role.
 
 The goal, if you hadn't guessed it, was to act confident until the confidence came naturally from experience.
 
-I found this technique useful as a teacher and have found it useful now.
+I found this technique useful as a teacher and have found it useful in the last month.
 
 ### Currently reading
 
@@ -82,9 +82,9 @@ In the last month I've worked through a few books:
 * Afua Hirsch's _Brit(ish)_ (also really good)
 * Ruha Benjamin's _Race After Technology_ (really, really good)
 
-Of those three I'd recommend _Race After Technology_, especially if you work in tech it's a must read. 
+Of those three I'd recommend _Race After Technology_, especially if you work in tech –– it's a must read. 
 
-I'm currently working through Theodore Allen's _Invention of the White Race_. It's a classic in the field of critical whiteness studies which I studied a bit in as a historian. However, it's been quite some time since I've read a book which frequently uses phrases like "petty bourgeoisie" and "the proletariat".
+I'm currently working through Theodore Allen's _Invention of the White Race_. It's a classic in the field of critical whiteness studies which I studied a bit in grad school as a historian. However, it's been quite some time since I've read a book which frequently uses phrases like "petty bourgeoisie" and "the proletariat".
 
 It's dense, academic reading but I like that. It works a different part of my brain.
 
