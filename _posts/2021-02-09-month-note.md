@@ -6,7 +6,7 @@ date: 2021-02-09
 
 Well, this past month has been busy. I'm glad I got my Linux Home blog out but that hasn't left as much time for week notes. I've been caught up in the whirl wind of to-do lists and new responsibilities.
 
-Here's a few reflections.
+Here are a few reflections.
 
 ### Tech leading: first impressions
 
