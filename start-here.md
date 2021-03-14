@@ -5,9 +5,7 @@ title: start here
 
 Hi folks. Welcome. 
 
-If you're visiting in some recruitment capacity I have a favour to ask. 
-
-Before approaching me about potential roles, please first reach out the groups listed below. 
+On the off chance you're here to approach me about potential roles, please first reach out the groups listed below (otherwise carry on exploring the site). 
 
 I'd like to be your last resort, not your first port of call.
 
