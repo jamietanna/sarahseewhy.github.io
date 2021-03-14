@@ -49,7 +49,7 @@ For me, [eXtreme Programming (XP)](https://en.wikipedia.org/wiki/Extreme_program
 I firmly believe in the power of vulnerability to create social bonds of trust. I value and practice empathy and active listening (it's a muscle, you gotta practice). Every interaction is a chance to be part of someone reaching towards the best version of themselves.
 
 #### 🛠 problem solving
-I'm a problem solver at heart. Even as cultural historian I got a thrill from contemplative analysis. I then got  hooked on the exhilaration of solving things in code. My favourite part is breaking problems down into smaller pieces and experimenting with solutions.
+I'm a problem solver at heart. Even as cultural historian I got a thrill from contemplative analysis. I then got hooked on the exhilaration of solving things in code. My favourite part is breaking problems down into smaller pieces and experimenting with solutions.
 
 #### 🧭 intuitive technical direction
 I'm a bit shy about this feedback because I think it speaks to the caliber of the people I've had the privilege to work with. What I _do_ find is that my intuition on a technical direction is often correct, despite my internal critic. Perhaps I should trust myself more.
