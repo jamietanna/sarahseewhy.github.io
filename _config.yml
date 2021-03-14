@@ -1,6 +1,5 @@
 # Dependencies
 markdown: kramdown
-
 # Setup
 title: sarah c y
 subtitle: sarahseewhy
@@ -18,7 +17,20 @@ links:
    logo: twitter
  - url: https://linkedin.com/in/
    logo: linkedin
-
 # Plugins
 plugins:
   - jekyll-feed
+
+# default excludes
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - gems/ruby
