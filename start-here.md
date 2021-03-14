@@ -5,7 +5,7 @@ title: start here
 
 Hi folks. Welcome. 
 
-If you're visiting in some recruitment capacity I have a request. 
+If you're visiting in some recruitment capacity I have a favour to ask. 
 
 Before approaching me about potential roles, please first reach out the groups listed below. 
 
