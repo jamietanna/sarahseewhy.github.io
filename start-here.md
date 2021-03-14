@@ -9,7 +9,7 @@ If you're visiting in some recruitment capacity I have a request.
 
 Before approaching me about potential roles, please first reach out the groups listed below. 
 
-Attend events, seek out to communities, contact event organisers, follow folks on social media, expand your network. Do the work. 
+Attend events, seek out to communities, contact event organisers, follow folks on social media, expand your network. 
 
 I'd like to be your last resort, not your first port of call.
 
