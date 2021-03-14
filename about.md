@@ -16,7 +16,7 @@ __________________________________________
 #### 🔀 the intersection of tech and culture
 This is the sweet spot for me, where I get my purpose. I like technical problem solving, I always will, but I love questions of culture and team dynamics. Effective communication is what makes good software development possible.
 
-#### 🌈 advocating for diversity, inclusivity, and anti-racism
+#### 🌈 advocating for diversity, inclusivity, equity, and anti-racism
 I became a software developer to unlearn the stereotypes about women in STEM I'd internalised growing up. Now that I'm here, I want to be a part of organisations that centre diversity, inclusivity, equity, and anti-racism.
 
 #### 👐 curious, collaborative people who practice vulnerability
