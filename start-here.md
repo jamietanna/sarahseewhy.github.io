@@ -33,7 +33,7 @@ I'd like to be your last resort, not your first port of call.
 - [Intertech LGBTQ+](https://intertechlgbt.interests.me)
 - [Black Female Founders](https://www.blackfemalefounders.org)
 - [The Black Women in Tech](https://theblackwomenintech.com/about/)
-- [Codebar Lonodn](https://codebar.io/london)
+- [Codebar London](https://codebar.io/london)
 - [Women in DevOps](https://www.womenindevops.com)
 
 #### Folks to know
