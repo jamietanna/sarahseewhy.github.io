@@ -5,7 +5,7 @@ title: start here
 
 Hi folks. Welcome. 
 
-On the off chance you're here to approach me about potential roles, please first reach out the groups listed below. 
+On the off chance you're here to approach me about potential roles, please first reach out to the groups listed below. 
 
 I'd like to be your last resort, not your first port of call.
 
