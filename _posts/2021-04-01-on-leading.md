@@ -4,7 +4,7 @@ title: On leading and leaning out
 date: 2021-04-01
 ---
 
-I've spent the last few months as the interim Tech Lead for my team. It's been both a lot of fun and a lot of work. I'm handing over the reigns to another team member and wanted to take some time to reflect on the experience.
+I've spent the last few months as the Tech Lead for my team. It's been both a lot of fun and a lot of work. I'm handing over the reigns to another team member and wanted to take some time to reflect on the experience.
 
 ### What I loved
 
