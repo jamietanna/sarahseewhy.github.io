@@ -40,7 +40,7 @@ I'd be more rigorous about carving out time to think about the team and really r
 
 Hearing from other Tech Leads where I work it sounds like carving this time out is really important. It can provide time to think about the team holistically.
 
-I definitely benefited from this reflection time at Unruly where we had 20% time and a strong culture of taking that time.
+I definitely benefited from this reflection time at my previous company where we had 20% time and a strong culture of taking that time.
 
 ### A note on leaning out
 
