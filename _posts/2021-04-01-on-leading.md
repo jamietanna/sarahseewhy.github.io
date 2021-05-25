@@ -46,18 +46,19 @@ I definitely benefited from creating space for reflection at my previous company
 
 For someone who enjoys leading and wants to continue down this path it feels a bit odd stepping back.
 
-My primary reason for stepping back is to model "leaning out" or purposefully stepping away from leadership to show it's possible to step away (for _Hamilton_ fans, this is what's known as the ["One last time"](https://www.youtube.com/watch?v=pEqnXNsAFL8) approach). 
+My primary reason for stepping back is to model "leaning out" or purposefully stepping away from leadership to show it's possible to step away (for _Hamilton_ fans this is what's known as the ["One last time"](https://www.youtube.com/watch?v=pEqnXNsAFL8) approach). 
 
 Folks are probably familiar with "Leaning in", a concept introduced by Sheryl Sandberg in her book [_Lean In_](https://en.wikipedia.org/wiki/Lean_In).
 
-I've always been a bit sceptical of leaning in. It puts the responsibility on marginalised individuals to address the inequalities they face instead of encouraging folks who aren't marginalised or differently marginalised to address the cycle of marginalisation.
+I've always been a bit sceptical of leaning in. 
 
-The tech lead role isn't a promotion where I work, it's an added layer of responsibility people volunteer for. You get to practice leadership, culture-building, product strategy, and working with stakeholders. It's a lot of work. 
+It puts the responsibility on marginalised individuals to tackle inequality instead of encouraging folks who aren't marginalised or differently marginalised to address the cycle of marginalisation.
+
+The tech lead role isn't a promotion where I work, it's an added layer of responsibility people volunteer for. You get to practice leadership, culture-building, product strategy, pastoral care, and working with stakeholders. It's a lot of work. 
 
 It's also a role that's easy to get comfortable in. Most folks I've seen in the role stay there. This means it's harder for other team members to get that leadership experience.
 
-I stopped being a tech lead so in the future when there's a new member of my team who wants to practice leadership, who may be historically marginalised in tech, they can step in to this role because the team has a tradition of stepping back from leadership.
-
+I stopped being a tech lead so in the future when there's a new member of my team who wants to practice leadership, who may be historically marginalised in tech, they can step in to this role because there is a tradition of tech leads stepping back.
 
 
 
