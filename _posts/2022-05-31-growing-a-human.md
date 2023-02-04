@@ -112,6 +112,6 @@ I'll be focused on becoming a new parent for the next six months and won't be ke
 Helpful articles on motherhood and software engineering:
 
 * [6 tips: Finding your balance as a mother and software engineer](https://www.educative.io/blog/balance-software-engineer-mother)
-* [](https://dev.to/rose/women-in-tech-being-a-developer-and-a-mom-gcf)
-* [](https://www.thoughtworks.com/insights/blog/mother-developer-woman)
-* [](https://medium.com/@wassupnari/working-mom-story-joining-twitter-as-a-software-engineer-21fd1e74130c)
+* [Women in tech: Being a developer and a mom 🤪](https://dev.to/rose/women-in-tech-being-a-developer-and-a-mom-gcf)
+* [Mother, Developer, Woman](https://www.thoughtworks.com/insights/blog/mother-developer-woman)
+* [Working Mom Story: Joining Twitter as a Software Engineer](https://medium.com/@wassupnari/working-mom-story-joining-twitter-as-a-software-engineer-21fd1e74130c)
