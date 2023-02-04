@@ -4,9 +4,7 @@ title: Growing the team
 date: 2021-11-30
 ---
 
-We're growing our team, on-boarding three new engineers from various specialisms (app development, infrastructure).
-
-It's a good time to review some of my favourite growing-the-team practices.
+We're growing our team, on-boarding three new engineers from various specialisms (app development, infrastructure). It's a good time to review some of my favourite growing-the-team practices.
 
 ### Prioritise "first contact"
 

@@ -4,15 +4,11 @@ title: Month note
 date: 2021-10-31
 ---
 
-It feels weird _not_ thinking about or working on the service assessment
-
-Here's a quick summary of where my mind has been the last month.
+It feels weird _not_ thinking about or working on the service assessment. Here's a quick summary of where my mind has been the last month.
 
 ### Thinking about our systems
 
-The service assessment helped me view our system holistically and it surfaced more improvement work we can do. 
-
-I've been thinking about where we can iterate on the improvements we've already done and develop a longer term plan for the service.
+The service assessment helped me view our system holistically and it surfaced more improvement work we can do. I've been thinking about where we can iterate on the improvements we've already done and develop a longer term plan for the service.
 
 I just wish I had more hours in the day for all the work I'd like to do!
 

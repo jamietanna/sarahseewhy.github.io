@@ -4,9 +4,7 @@ title: Becoming infrastructure lead
 date: 2021-04-07
 ---
 
-This month I transitioned from a tech lead role to infrastructure lead. 
-
-Our product is composed of four simple Ruby apps and an ecosystem of more complicated infrastructure components.
+This month I transitioned from a tech lead role to infrastructure lead. Our product is composed of four simple Ruby apps and an ecosystem of more complicated infrastructure components.
 
 We haven't had an infrastructure lead in the past and the team has needed one.
 

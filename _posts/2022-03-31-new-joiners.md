@@ -4,11 +4,7 @@ title: The value of new joiners
 date: 2022-03-31
 ---
 
-It's been about six months since our group of new joiners joined the team.
-
-I want to take a moment and highlight why new joiners are so valuable on a team.
-
-They are the best.
+It's been about six months since our group of new joiners joined the team. I want to take a moment and highlight why new joiners are so valuable on a team. They are the best.
 
 ### Fresh perspective
 

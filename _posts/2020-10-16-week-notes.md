@@ -6,9 +6,7 @@ date: 2020-10-16
 
 ### Katas
 
-I picked up programming in my downtime again for the first time in a year. 
-
-Just katas for now, mostly in Java because it still feels the most comfortable for me.
+I picked up programming in my downtime again for the first time in a year. Just katas for now, mostly in Java because it still feels the most comfortable for me.
 
 It was way more fun than I expected.
 
