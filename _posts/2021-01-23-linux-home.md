@@ -6,7 +6,9 @@ date: 2021-01-23
 
 Have you ever thought about mapping the Linux filesystem on to rooms in a house?
 
-I have. In fact, I've thought about this a lot over the last few years. Whenever I connect to a server it feels like I'm entering a house. `cd`-ing into a directory is like opening a door into a new room. It's like I'm inspecting the furniture when I list a directory's contents.
+I have. In fact, I've thought about this a lot over the last few years.
+
+Whenever I connect to a server it feels like I'm entering a house. `cd`-ing into a directory is like opening a door into a new room. It's like I'm inspecting the furniture when I list a directory's contents.
 
 I find filesystems fascinating but at first it was infuriating.
 

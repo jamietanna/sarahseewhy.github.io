@@ -8,7 +8,9 @@ Another month has zoomed by and I want to capture a few of the highlights for po
 
 ### More service assessment
 
-I get the feeling I will be living and breathing the service assessment for the next few months! I've been collaborating across pillars/specialisms in our team, working closely with our technical architect but also our UCD team (UX and content). 
+I get the feeling I will be living and breathing the service assessment for the next few months!
+
+I've been collaborating across pillars/specialisms in our team, working closely with our technical architect but also our UCD team (UX and content). 
 
 The whole process has meant some deep dives into our tech stack and learning about our technology.
 

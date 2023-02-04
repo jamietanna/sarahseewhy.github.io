@@ -4,7 +4,11 @@ title: Structured logging
 date: 2022-04-30
 ---
 
-The individual contribution I've been doing has got me thinking about logging on our service. I've been leading on incidents, doing support work, and exploring our codebase for fixes. I've noticed we have room for growth when it comes to our logging, in particular could we move to structured logging?
+The individual contribution I've been doing has got me thinking about logging on our service.
+
+I've been leading on incidents, doing support work, and exploring our codebase for fixes.
+
+I've noticed we have room for growth when it comes to our logging, in particular could we move to structured logging?
 
 ### What is structured logging
 

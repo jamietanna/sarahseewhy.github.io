@@ -4,7 +4,11 @@ title: Reflection - service assessment
 date: 2021-09-30
 ---
 
-Good news, we passed the service assessment! What does this means for the team and the product? It means our service has passed a rigorous government standard and can be considered a "Live" service.
+Good news, we passed the service assessment!
+
+What does this means for the team and the product?
+
+It means our service has passed a rigorous government standard and can be considered a "Live" service.
 
 On a practical level it means the product will continue to be funded because it's deemed valuable to citizens and performs at a high technical standard.
 

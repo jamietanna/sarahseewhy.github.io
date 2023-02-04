@@ -8,7 +8,9 @@ I never know where the time goes! But here we are at another month's reflection.
 
 ### Handing over the reigns 
 
-This month I handed over the infrastructure lead role to a very capable colleague. It was part of my 2021 reflection to step from leadership for awhile.
+This month I handed over the infrastructure lead role to a very capable colleague.
+
+It was part of my 2021 reflection to step from leadership for awhile.
 
 It felt mixed, I really love tech leading but I also believe in providing leadership opportunities to other team members.
 
