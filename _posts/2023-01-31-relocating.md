@@ -6,7 +6,7 @@ date: 2023-01-31
 
 I'm taking a break from parental leave to drop another quick announcement: I've relocated to Seattle!
 
-After 12 years living in the UK and 10 in London, my partner and I decided to take a leap of faith and try living on the other side of the Atlantic.
+After 12 years living in the UK and 10 years living in London, my partner and I decided to take a leap of faith and try living on the other side of the Atlantic.
 
 We're closer to my US family which is amazing, it's a lot of fun seeing them interact with our daughter.
 
