@@ -10,7 +10,7 @@ It's a good time to review some of my favourite growing-the-team practices.
 
 ### Prioritise "first contact"
 
-I was first introduced to this concept in [Culture Code](https://www.goodreads.com/book/show/33517721-the-culture-code) (one of my favourite team culture/leadership books).
+I was introduced to this concept in [_Culture Code_](https://www.goodreads.com/book/show/33517721-the-culture-code).
 
 What is "first contact"? Pretty much what it says on the tin. 
 
