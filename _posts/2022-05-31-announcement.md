@@ -4,9 +4,9 @@ title: Announcement
 date: 2022-05-31
 ---
 
-A bit of an announcement: I'm growing a human. 
+A bit of an announcement...
 
-I wanted to take a moment to reflect on what the experience has been like, especially what's worked and what hasn't as a mum-to-be in software engineering.
+I'm pregnant! I wanted to take a moment to reflect on what the experience has been like, especially what's worked and what hasn't as a mum-to-be in software engineering.
 
 ### Pregnancy
 
