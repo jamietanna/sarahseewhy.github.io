@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Growing a human
+title: Announcement
 date: 2022-05-31
 ---
 
