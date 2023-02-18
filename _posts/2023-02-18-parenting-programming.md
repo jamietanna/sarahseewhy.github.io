@@ -52,7 +52,7 @@ Also, once we started tracking some of our child's core needs (sleep, feeding, n
 
 As she's gotten older and developed hunger and tired cues we understand, we don't track as much. 
 
-I miss it a bit to be honest, partly because I had this daydream of creating a Grafana dashboard for some of her metrics (my husband encouraged me to de-scope this idea).
+I miss it a bit to be honest, partly because I had this daydream of creating a Grafana dashboard for some of her metrics (my husband encouraged me to de-scope this idea, we already had a lot on our plate as new parents).
 
 --------
 
