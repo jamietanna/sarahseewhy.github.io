@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What programming taught me about parenting
+title: What programming taught me about being a parent
 date: 2023-02-18
 ---
 

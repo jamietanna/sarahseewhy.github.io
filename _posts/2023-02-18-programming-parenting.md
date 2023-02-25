@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What parenting taught me about being a programmer
-date: 2023-02-18
+date: 2023-02-25
 ---
 
 Last month I wrote about [what programming taught me about being a parent]({% post_url 2023-02-18-parenting-programming %}). I've found in the (nearly) year of being a parent there are valuable parenting lessons I'd like to bring to my life as software engineer.
