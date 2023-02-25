@@ -26,7 +26,9 @@ Early on I saw elements of the driver/navigator relationship in parenting.
 
 Things like knowing there is no one way to solve a problem, being curious about how someone else sees a problem or a solution, knowing when to step back and allow your partner to gain experience and also when to step in, and creating safe spaces to fail and learn.
 
-It also makes the conversation about caring a lot smoother because we use the language of pair programming: "would you like me to drive?" or "I'm a bit lost right now, do you mind driving/navigating?". Learning how to over communicate and continually check-in in pair programming were also useful when parenting with my husband[^1].
+It also makes the conversation about caring were a lot smoother because we use the language of pair programming: "would you like me to drive?" or "I'm a bit lost right now, do you mind driving/navigating?". 
+
+Learning how to over communicate and continually check-in in pair programming were also useful when parenting with my husband[^1].
 
 Finally, a baby is a bit like a keyboard: it feels rude when someone just grabs it from you to try to solve the issue.
 
