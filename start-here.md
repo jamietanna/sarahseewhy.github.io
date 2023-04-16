@@ -11,6 +11,16 @@ I'd like to be your last resort, not your first port of call.
 
 ---------------------------------------
 
+### US
+
+🚧 Work in progress 🚧
+
+I've just started building a network and will update with recommendations once I get to know the tech community in Seattle better.
+
+Although early shout out to [Ada Developers Academy](https://adadevelopersacademy.org) where I'm volunteering as a tutor.
+
+### UK
+
 #### Communities
 - [UKBlackTech](https://ukblacktech.com/)
 - [AfroTech Fest](https://www.afrotechfest.co.uk/)
