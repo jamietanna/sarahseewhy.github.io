@@ -5,7 +5,7 @@ title: about
 
 I’m a cultural historian of gender and computer science turned infrastructure developer and aspiring Chief Joy Officer. In my life I've also done a bit of teaching and dabbled in communications.
 
-I think extreme programming is the cat’s pajamas, site reliability engineering is swell, and teamwork is the most exciting part of any job. 
+I think extreme programming is the cat’s pajamas, site reliability engineering is endlessly fascinating, and teamwork is the most exciting part of any job. 
 
 I’m interested in companies with whom I share a common purpose, whose leaders champion openness, accountability, belonging, and problem solving.
 
