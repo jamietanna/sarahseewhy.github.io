@@ -20,7 +20,7 @@ Working in teams and pair programming it's equally important to realise ruptures
 
 Another thought-provoking tidbit from Perry's book was the importance of knowing yourself, _really_ knowing yourself. 
 
-As parents how we react to our children often says more about the way we were treated as children than what are children are doing in the present.
+As parents how we react to our children often says more about the way we were treated as children than what our children are doing in the present.
 
 Perry gives the example of reacting in anger to her daughter's request for help on a jungle gym ("Come on, just do it yourself!"). It's only later she realises her outburst is a reflection of the anger she felt at her mother who _wouldn't_ allow her to be independent.
 
@@ -52,11 +52,11 @@ You don't have to do all the things, which leads to my next point.
 
 ### Focus on priorities
 
-Given that it's not possible to do All The Things, it's even more critical to prioritise the things that truly matter.
+Given it's not possible to do All The Things, it's even more critical to prioritise the things which truly matter.
 
 In my baby's case this was identifying her core needs (feeding, rest, connection, play, time alone) and then prioritising them.
 
-It also meant identifying my core needs as a parent (they aren't too different from my baby's: feeding, rest, connection, and play/time alone).
+It also meant identifying my core needs as a parent (they aren't too different from my baby's: feeding, rest, connection, play, and time alone).
 
 Initially everything else was peripheral to these core needs. As my baby grew, and especially when she passed the [fourth trimester](https://www.whattoexpect.com/first-year/postpartum/what-doctors-wish-moms-knew-fourth-trimester/), we were able to slowly layer other needs and priorities.
 
