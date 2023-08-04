@@ -4,7 +4,7 @@ title: On curveballs
 date: 2023-08-01
 ---
 
-Tldr: we’re moving back to London!
+Tldr: we’re moving back to London.
 
 Back in December we moved to Seattle for my husband’s job.
 
