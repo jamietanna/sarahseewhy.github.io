@@ -54,7 +54,7 @@ I'd like to write a post about the kind of problems I solve as way to help prosp
 
 ---------------
 
-That's it folks! I may gone for a bit while family visit and we work through the curveball that life threw at us this month.
+That's it folks! I may be gone for a bit while family visit and we work through the curveball that life threw at us this month.
 
 Hopefully I'll have time over the summer to expand on one or all of those ideas.
 
