@@ -8,7 +8,7 @@ Picking up [_Site Reliability Engineering: how Google runs production systems_](
 
 It reminded my why I fell in love with reliability engineering: being able to focus on the big picture but also feel the joy of _building_ services.
 
-This is a quick reflection on the the first chapter.
+This is a quick reflection on the first chapter.
 
 ---------------------------------
 
