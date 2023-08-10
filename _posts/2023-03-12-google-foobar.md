@@ -6,7 +6,7 @@ date: 2023-03-12
 
 I recently got invited to Google’s secret recruitment tool called `foobar` (aww, thanks Google!).
 
-It’s a series of coding challenges similar to what you’d find on [LeetCode](https://leetcode.com) or [similar](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/).
+It’s a series of coding challenges similar to what you’d find on [LeetCode](https://leetcode.com) [etc](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/).
 
 If you’re curious here are [some](https://itsmohitt.medium.com/things-you-should-know-about-google-foobar-invitation-703a535bf30f) [other](https://www.turing.com/kb/foobar-google-secret-hiring-technique) [blogs](https://www.freecodecamp.org/news/the-foobar-challenge-googles-hidden-test-for-developers-ed8027c1184/) about it.
 
