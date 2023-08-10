@@ -100,7 +100,7 @@ That project helped me realise I'm a generalist. I fit well in teams that need s
 
 I thrive on platform teams and small to medium-sized startups who need someone to wear a few different hats. 
 
-A note on being a generalist: my skill set is **broad**, in some areas deep (especially team work and leadership), but not all areas have equal depth. Given I've focused my energy in the last four years on becoming a Senior SRE, I'd probably say I'm a mid-level software engineer.
+A note on being a generalist: my skill set is **b r o a d**, in some areas deep (especially team work and leadership), but not all areas have equal depth. Given I've focused my energy in the last four years on becoming a Senior SRE, I'd probably say I'm a mid-level software engineer.
 
 <sub>[return to top](#)</sub>
 
