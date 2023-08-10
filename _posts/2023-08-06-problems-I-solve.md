@@ -17,6 +17,8 @@ In the spirit of that advice, and since I'm looking for work myself, these are s
 - [we don't do XP and we'd like to](#you-dont-do-xp-but-you-want-to)
 - [our platform team needs a lead](#you-need-an-engineering-manager-for-a-platform-team)
 
+--------------------------
+
 ## You want to implement SRE principles and practices
 
 Fundamentally this is what I do: implement SRE principles and practices. I bring a software engineering mindset to traditional operations issues. 
