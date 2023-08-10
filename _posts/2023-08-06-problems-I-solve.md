@@ -23,7 +23,7 @@ Fundamentally this is what I do: implement SRE principles and practices. I bring
 
 [This is a longer list of what I do and the tools I've worked with, in case you're curious about the details](#the-tools-i-use-).
 
-My approach to SRE is founded on: **observability** (how do we know what's happening in a system), **automation** (how do we optimise a system by removing repetition), and **simplicity** (how do we design or refactor system to be simpler).
+My approach to SRE is founded on: **observability** (how do we know what's happening in a system), **automation** (how do we optimise a system by removing manual tasks), and **simplicity** (how do we design or refactor system to be simpler).
 
 For me, observability encompasses things like SLxs, monitoring, and even attitudes to risk (our appetite for risk is related to our confidence in a system's observability).
 
