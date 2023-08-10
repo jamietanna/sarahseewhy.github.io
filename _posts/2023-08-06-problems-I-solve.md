@@ -150,7 +150,7 @@ If you're looking for an engineering manager we can always have a chat. It would
 
 I have built and maintained CI/CD pipelines, developed SLxs, migrated to cloud services, led incidents, built and managed containers (mostly Docker 🐳), been on call, designed and optimised infrastructure systems, managed cloud costs, wrote infrastructure as code, automated All The Things, scaled systems, developed effective monitoring tools (Hi Grafana! 👋), created meaningful alerts, wrote documentation, addressed security issues, worked with networking, and had a lot of fun along the way 🎉 
 
-I've worked predominantly with Linux (sorry Windows) and AWS but played around with Google Cloud Platform in my downtime. Don't feel left out Azure, I promise I'll work with you one day!
+I've worked predominantly with Linux (sorry Windows). Used AWS almost exclusively but played around with Google Cloud Platform in my downtime. Don't feel left out Azure, I promise I'll work with you one day!
 
 For CI/CD, I've used GoCD, Concourse, AWS Code Pipeline/Deploy, Jenkins, and GitHub Actions. I've also used Rundeck from time to time and Packer for baking images. Puppet is my preferred configuration management tool but I've also worked with Ansible. I'd like to work more with Kubernetes.
 
