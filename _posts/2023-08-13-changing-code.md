@@ -14,7 +14,6 @@ In my opinion there are four layers to creating confidence when delivering chang
 
 -----------------------
 
-
 ## Team communication
 
 Confident changes happen in teams with strong communication foundations. 
