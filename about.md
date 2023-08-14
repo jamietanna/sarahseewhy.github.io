@@ -9,7 +9,11 @@ I think [eXtreme programming](http://www.extremeprogramming.org) is the cat’s 
 
 I’m interested in companies with whom I share a common purpose, whose leaders champion openness, accountability, belonging, and problem solving.
 
-To get know me a bit more check out my post on the [problems I solve]({% post_url 2023-08-06-problems-I-solve %}) and my experience [leading a team]({% post_url 2021-04-01-on-leading %}).
+To get know me a bit more, check out my posts on:
+
+* [the problems I solve]({% post_url 2023-08-06-problems-I-solve %})
+* [chatting with an AI about how I do SRE]({% post_url 2023-08-14-fireside-ai-chat-sre %})
+* [leading a team]({% post_url 2021-04-01-on-leading %}).
 
 ------------------------
 
