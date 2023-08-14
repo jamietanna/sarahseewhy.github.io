@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fireside (AI) chat on site reliability engineering
-date: 2023-08-15
+date: 2023-08-14
 ---
 
 Welcome to my fireside chat with ChatGPT all about site reliability engineering.
