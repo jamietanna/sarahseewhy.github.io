@@ -13,7 +13,7 @@ To get know me a bit more, check out my posts on:
 
 * [the problems I solve]({% post_url 2023-08-06-problems-I-solve %})
 * [chatting with an AI about how I do SRE]({% post_url 2023-08-14-fireside-ai-chat-sre %})
-* [leading a team]({% post_url 2021-04-01-on-leading %}).
+* [leading a team]({% post_url 2021-04-01-on-leading %})
 
 ------------------------
 
