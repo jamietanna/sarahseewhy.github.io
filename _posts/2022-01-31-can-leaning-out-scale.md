@@ -58,7 +58,7 @@ I've always wondered what it would be like to shadow a CTO and be CTO for a day/
 
 I wrestle with this thought experiment a lot and have tried implementing some type of leaning out.
 
-For me, leaning out as a professional means on stepping back from the professional space all together, making myself quieter and less obtrusive, and where I can amplify/support other folks. 
+For me, leaning out as a professional could mean stepping back from the professional space all together, making myself quieter and less obtrusive, and where I can amplify/support other folks. 
 
 I sometimes wonder how different my time in tech would've been if the overrepresented folks I've worked with had stepped back, asked me to collaborate with them on ideas, or had offered me the opportunities initially presented to them.
 
