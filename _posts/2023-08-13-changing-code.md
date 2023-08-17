@@ -18,7 +18,7 @@ In my opinion there are four layers to creating confidence when delivering chang
 
 Confident changes happen in teams with strong communication foundations. 
 
-I’m confident when delivering changes to software when teams practise open communication and vulnerability, accept and take accountability for their mistakes, support each other through those mistakes with empathy and curiosity, and find joy, laughter, and connection in their work. 
+I’m confident delivering changes to software when teams practise open communication and vulnerability, accept and take accountability for their mistakes, support each other through those mistakes with empathy and curiosity, and find joy, laughter, and connection in their work. 
 
 My confidence grows when I see engineers connected to their end users and work in harmony with product developers to ensure the team is delivering software based on user centred needs. 
 
