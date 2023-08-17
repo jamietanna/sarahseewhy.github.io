@@ -62,4 +62,6 @@ I want there to be processes in place for securing customer data and following G
 
 Ideally credentials are managed securely (automatically rotated and encrypted), network traffic is secured, and on-boarding and off-boarding is fast and efficient.
 
+I'm especially impressed by teams which complete regular threat modelling sessions and incorporate the resulting actions into their planning and prioritisation.
+
 Fundamentally security should be part of the product development cycle.
