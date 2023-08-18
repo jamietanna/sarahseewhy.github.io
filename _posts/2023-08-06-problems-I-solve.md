@@ -56,7 +56,7 @@ This means I'm not the kind of SRE who likes to work solo. I want to feel connec
 
 In a lot of ways I feel this is my calling. 
 
-For you Trekkies out there, I'm like the Diana Troi of a team: I can command the ship and chat with Geordi LeForge about why a cryosensor is borked but my purpose is connecting and understanding people 🖖
+For you Trekkies out there, I'm like the Deanna Troi of a team: I can command the ship and chat with Geordi LeForge about why a cryosensor is borked but my purpose is connecting and understanding people 🖖
 
 Most of my downtime reading and thinking relates to psychology, team culture, communication, and leadership. I love combining this with a good tech side project.
 
