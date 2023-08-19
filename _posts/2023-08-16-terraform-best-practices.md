@@ -48,7 +48,7 @@ Or in this case you. There's no one like you or your codebase. You are on your o
 
 To me this means it's ok to play around in the console first. Click-ops your way to understanding if you will. Manually building in the console provides a fast discovery feedback loop (e.g., a resource's mandatory fields or parameters). 
 
-I've experienced both approaches: learning a system through code first and learning a system through the console. I have a slight preference for the former if only because I'm a visual learner.
+I've experienced both approaches: learning a system through code first and learning a system through the console. I have a slight preference for the latter if only because I'm a visual learner.
 
 As long as there are guardrails in place (ideally a dev or sandbox environment) then the console is a great way to learn. Make sure you enable other guardrails as well, I'm thinking a git pre-commit hook or a pipeline job which scans for sensitive data
 
