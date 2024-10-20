@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Returning from a career break
-date: 2024-03-24
+date: 2024-10-20
 ---
 
 I've returned to work after a longer-than-expected career break raising my daughter –– and moving halfway across the world twice (plus a family health emergency). 
@@ -16,7 +16,7 @@ Most of the mom-engineers I know, and there aren't many, return to the same team
 
 The lessons here are based on my experience starting somewhere new, realising it wasn't the right fit, and returning to where I used to work.
 
-<sub>**A note on audience**: I can only speak from my experience and feel uncomfortable doing otherwise. Therefore this blog is geared towards cis women returning from a child-related career break.  I'd love to hear the experience of fathers, parents, anyone who has taken a 12+ month career break.</sub>
+<sub>**A note on audience**: I can only speak from my experience. Therefore this blog is geared towards cis women returning from a child-related career break.  I'd love to hear the experience of fathers, parents, anyone who has taken a 12+ month career break.</sub>
 
 ----------------
 
@@ -34,7 +34,7 @@ But what did my mind and body need? Did I need to make space for rest? What kind
 
 Looking back I wish I'd identified my _needs_ and balanced my wants with my needs (and responsibilities).
 
-Why didn't I do this? I suspect my decisions were guided by fear and the societal pressure to do it all some new mothers feel.
+Why didn't I do this? I suspect my decisions were guided by fear and the societal pressure to do it all as some new mothers feel.
 
 ## New vs old skills
 
@@ -60,7 +60,7 @@ If you can, find a role, a team, an organisation that appreciates these challeng
 
 My daily rhythm is different now.
 
-I wake up at 6AM, sometimes earlier. My sleep is disrupted (normal for baby and toddler sleep patterns). 
+I wake up at 5:30AM, sometimes earlier. My sleep is disrupted (normal for baby and toddler sleep patterns). 
 
 My child falls asleep between 7:30 and 8PM. 
 
@@ -86,9 +86,9 @@ My circumstances were a bit unique here: I had the newness of being a first-time
 
 Starting at an unfamiliar place––with all new tech, people, relationships, processes, tooling––ended up being just too much _new_.
 
-Now I've returned to where I used to work before my career break I can really tell the difference. I'm more at ease, feel at home on my team, and picked up work within the first week, delivering a valuable feature for our service. 
+Since I've returned to where I used to work before my career break I can really tell the difference. I'm more at ease, feel at home on my team, and picked up work within the first week, delivering features for our service. 
 
-I'm not saying choose the familiar over the unfamiliar, both have their pros/cons and depend on context. I'm saying understand there is difference and make an informed decision about what's right for you (if this is a choice you can make).
+I'm not saying you should choose the familiar over the unfamiliar, both have their pros/cons and depend on context. I'm saying understand there _is_ difference and make an informed decision about what's right for you (if this is a choice you can make).
 
 It's not always possible or desirable to return to a previous workplace. Maybe it's been years and returning isn't an option.
 
@@ -99,3 +99,11 @@ If you are starting somewhere new, I'd recommend the following:
 * **Create a clear 30/60/90/120 day plan**. Both you and your line manager should be crystal clear about the expectations for the first few months. Adjust as you go.
 
 Also know it's ok to walk away from somewhere that doesn't feel like the right fit.
+
+## Finally
+
+After nearly a year back doing SRE I feel so much more settled. 
+
+I believe this is a mix of finding the role in the right team and at the right organisation, as well as the way I've learned, adapted, and grown. 
+
+I now have the headspace to think and write about the things which interest me.
